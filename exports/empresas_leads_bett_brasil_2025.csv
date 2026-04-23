@@ -1,0 +1,504 @@
+event_ref,institution,lead_name,email,phone,role,created_at,updated_at
+10007,Secretaria da Educação do Estado de São Paulo,Tania Mara De Souza Sampaio,tania.sampaio@educacao.sp.gov.br,11998082838,Professor/Educador/Pedagogo/Orientador,2025-05-01 20:24:23.415000000,2025-05-01 21:27:03.460000000
+10233,Secretaria Municipal de Educação Embu das Artes,LUCIA DE FATIMA NUNES DA SILVA,luciafns@gmail.com,11969762278,Coordenador/Supervisor,2025-04-29 15:00:31.936000000,2025-04-29 15:03:10.294000000
+10591,Nao,Bruno Oliveira,brunoocsantana84@gmail.com,11942794402,Estudante,2025-04-30 15:26:26.235000000,2025-04-30 15:28:55.221000000
+10732,Prefeitura Embu das Artes,Narcisa Oliveira,alexnarcisa@hotmail.com,11992021271,Coordenador/Supervisor,2025-04-29 14:59:55.706000000,2025-04-29 15:02:23.499000000
+10735,Instituto Realiza de Educação,Diego Dias,diegodias256@gmail.com,71991394672,Gestor/Gerente,2025-04-28 15:28:04.447000000,2025-04-28 15:28:24.420000000
+10736,ED+ Content Hub Facens,Marcelo Alves Ferreira,marceloalvesferreira@gmail.com,21996891409,Gestor/Gerente,2025-04-29 18:02:23.885000000,2025-04-29 18:35:32.286000000
+10851,Myre Livraria,Isadora Myre,isamyre@myrelivraria.com.br,11993719732,Diretor/Vice Diretor/Presidente/VP,2025-04-30 19:12:45.252000000,2025-04-30 19:13:57.821000000
+10856,Secretaria Municipal de Educação de Embu das Artes,Nair De Souza,nairsouza354@gmail.com,11941148841,Diretor/Vice Diretor,2025-04-28 13:50:35.727000000,2025-04-28 13:54:18.787000000
+11248,AGENCIA KHARIS,Fabio Machado,fabio.machado@agenciakharis.com.br,37999450034,Analista/Auxiliar/Assistente,2025-04-28 14:55:33.977000000,2025-04-28 14:56:10.676000000
+1129,FECAF,Jessica Pereira,jessica.silva@fecaf.com.br,11 93225 7985,Coordenador/Supervisor,2025-04-30 18:23:43.454000000,2025-04-30 18:25:28.087000000
+11352,Secretaria de Educação de Embu das Artes,Deisiane Gomes De Morais,gomesdemoraisdeisiane@gmail.com,11932352323,Secretário Escolar,2025-04-28 13:50:21.106000000,2025-04-28 13:50:51.360000000
+11591,Prefeitura de Embu das Artes,ROSA M S DOMINGUES,rosa.projetosespeciais.embu@gmail.com,11972533243,Gestor/Gerente,2025-04-29 15:01:26.974000000,2025-04-29 15:04:39.647000000
+11652,Realize Eventos,Bruna Carvalho,bmcarvalho08@gmail.com,83993345960,Coordenador/Supervisor,2025-04-28 19:10:06.880000000,2025-04-28 19:12:33.507000000
+11821,Poliedro Educação,SIGMAR AZEVEDO,sigmar.lessa@sistemapoliedro.com.br,12996031859,Coordenador/Supervisor,2025-04-30 19:02:07.465000000,2025-04-30 19:04:20.721000000
+11865,Education Insights,Kanat Tanzharikov,kanat.tanzharikov@gmail.com,77027024445,Coordinator/Supervisor,2025-04-29 13:03:19.008000000,2025-04-29 13:25:56.612000000
+11893,Ip Control Tecnologias Integradas,Marcelo Ferreira,marcelo.ferreira@ipcontrol.com.br,31989371121,Desenvolvedor de Inovação,2025-04-29 18:04:21.931000000,2025-04-29 18:06:46.150000000
+11930,Prefeituras de Pontes Gestal,EVELYN FAUSTA MORI DA SILVA,evelyn@pontesgestal.sp.gov.br,17997326962,Secretário Municipal de Educação,2025-04-30 13:09:25.779000000,2025-05-01 13:11:04.441000000
+11980,Realize Editora,ALLYSON DA VEIGA CAVALCANTE,allysonveiga@gmail.com,83988289600,Gestor/Gerente,2025-04-28 19:07:40.764000000,2025-04-28 19:08:12.830000000
+1231,WALPRINT GRÁFICA,Felipe Barbosa,felipe@walprint.com.br,21988578966,Diretor/Vice Diretor,2025-04-29 15:37:39.516000000,2025-04-29 15:42:11.555000000
+13008,Clássica Distribuidora de Livros,Rodrigo Muniz,rodrigo@gleconsultoria.com,31992436013,Consultor/Especialista,2025-04-29 12:36:44.016000000,2025-04-30 13:18:18.246000000
+13016,NCI Innova,Gustavo Ehrhardt,gustavo@nciinnova.com,19992889298,Diretor/Vice Diretor,2025-04-29 18:38:32.229000000,2025-04-30 15:43:49.282000000
+13540,ITEC,Anderson Augusto Dos Reis De Deus,andersonaugusto.rd@gmail.com,27999964461,Gestor,2025-04-29 16:00:48.000000000,2025-05-05 16:01:18.736000000
+13684,PROESC,Flavia Jessica Ramos Moraes,flavia@proesc.com,1197699092,Head de Pré-Venda,2025-04-30 21:33:38.980000000,2025-04-30 21:34:12.900000000
+13770,PROESC,Pompeu Filho,pompeu@proesc.com,1193274157,Head de Marketing,2025-04-30 21:33:47.761000000,2025-04-30 21:34:19.141000000
+13899,Itec,SERGIO MONECHI SOBRINHO,sergiomonechi@gmail.com,27999203370,Gestor Operacional,2025-04-29 16:03:41.411000000,2025-04-29 16:04:11.185000000
+14168,Secretaria Municipal de Educação de Cruz,Maria Farias,veryfarias@hotmail.com,88999129617,Secretário Municipal de Educação,2025-04-30 15:30:15.942000000,2025-04-30 15:32:41.897000000
+14467,Distribuidora MPE,ROGER MENEZES LUTZ,roger@mpe.com.br,55984020256,Gestor/Gerente,2025-04-29 18:56:22.592000000,2025-04-29 19:04:14.708000000
+14535,SECRETARIA MUNICIPAL DE EDUCAÇAO,DARCI MARQUES PIRES,marques.darci@gmail.com,34997742064,Analista/Auxiliar/Assistente,2025-04-29 12:56:17.263000000,2025-04-29 12:58:55.173000000
+14606,,Silvia Perez,silvia.perez@singularidades.com.br,19993515295,Jornalista,2025-04-30 18:46:00.072000000,2025-04-30 18:47:53.289000000
+1505,Secretaria Municipal de Educação de Jacareí,Ariadne Capucci,adycapucci@gmail.com,12997923040,Coordenador/Supervisor,2025-05-01 16:11:02.717000000,2025-05-01 16:33:16.855000000
+15120,Prefeitura municipal de educaçao,Viviane Vieira Nunes,vivianenunes10057@educacaoembudasartes.com,11977199055,Gestor/Gerente,2025-04-28 16:50:41.900000000,2025-04-28 16:51:25.094000000
+15280,Município de Bertioga,Mariana Souza Braz,mariana.braz@seducbertioga.com.br,13992074200,Gestor/Gerente,2025-04-30 17:13:41.145000000,2025-05-06 00:08:25.577000000
+15325,Instituto da Oportunidade Social,Vanessa Almeida,vanymatrix@gmail.com,11984105769,Consultor/Especialista,2025-04-29 18:56:23.837000000,2025-04-29 18:58:28.682000000
+1549,PREFEITURA MUNICIPAL DE PIQUETE,Leonardo Fabricio Da Silva (dme),biologialeo@outlook.com,12997151650,Dirigente Municipal de Educação (DME),2025-04-30 14:09:25.578000000,2025-04-30 14:11:47.796000000
+15879,MASK Educação,Marina Mascarenhas,marina@maskviagens.com.br,21974085280,Diretor/Vice Diretor,2025-04-29 17:11:34.481000000,2025-04-29 17:15:54.488000000
+16275,CHALIN TECH,Sadoc Chalin,nadirchalin@gmail.com,5401166741797,Director/Vice Director,2025-04-28 20:23:38.974000000,2025-04-28 22:31:57.313000000
+16554,PlayerUm,FLAVIO STOLIAR,flavio@playerum.com.br,21999229344,Diretor/Vice Diretor/Presidente/VP,2025-04-28 20:06:23.311000000,2025-04-28 20:10:36.192000000
+16697,Assembleia legislativa de Mato Grosso,Jean Silva,jean_sk85@hotmail.com,65999570349,Consultor/Especialista,2025-05-01 17:52:11.467000000,2025-05-01 18:02:46.892000000
+17290,Micro Sistema,RAFAELA PINTO,kannieyeah@gmail.com,11983347886,Vendedor/Representante,2025-04-28 16:00:24.551000000,2025-05-08 18:06:16.213000000
+1731,Fênix Editorial,Rafael Mazzari,rafaelmazzari@yahoo.com.br,11976637623,Coordenador/Supervisor,2025-04-29 20:00:03.794000000,2025-04-29 20:17:24.907000000
+17416,Waybee,Vinicius Perira Nascimento,vinicius.pereira@waybee.com.br,11975131858,Autônomo,2025-04-28 18:59:47.992000000,2025-04-28 19:00:12.136000000
+17574,Prefeitura Municipal de Itupeva,Joselina Moraes,joselina.moraes@ig.com.br,11973940361,Assessor Técnico,2025-05-01 13:19:09.684000000,2025-05-01 15:00:43.187000000
+17581,RGR PRESTAÇÃO E SERVIÇOS E COMERCIO EM GERAL,Andrea Cristina Santos Sene Silveira,cricasene@gmail.com,27995308484,Distribuidor/Revendedor,2025-04-29 15:46:03.462000000,2025-04-29 15:53:02.764000000
+17586,RGR Prestação de serviços e comércio em geral,RAISSA LOURENÇO,issamarvilalourenco@gmail.com,27992224490,Distribuidor/Revendedor,2025-04-29 15:46:12.370000000,2025-04-29 15:48:21.208000000
+17649,,MATEUS OLIVEIRA,mateus.oliveira@movplan.com.br,6696891513,GERENTE DE PROJETOS E NEGOCIOS,2025-05-01 17:29:13.212000000,2025-05-01 17:32:38.410000000
+17680,RGR PRESTAÇÃO de serviços e comércio,Silvia Cristina Carneiro Dos Santos,boutiquedebrinquedos01@gmail.com,21999659617,Gestor/Gerente,2025-04-29 15:37:49.970000000,2025-04-29 16:23:09.863000000
+17918,Monitory,Kelly Cavalhiero,kelly@monitory.com.br,11933773002,Consultora Comercial,2025-04-30 19:08:05.852000000,2025-04-30 19:12:30.195000000
+18013,,Nathalia Meireles,nathaliameireles@kedu.com.br,85982254153,Executiva de Relações Institucionais,2025-04-29 15:53:42.918000000,2025-04-29 16:02:13.229000000
+18016,,Graziele Oliveira,grazieleoliveira@kedu.com.br,85996670021,Especialista em Produtos,2025-05-01 17:20:57.914000000,2025-05-01 17:21:21.114000000
+18021,,Leonardo Arcangelis,leonardoarcangelis@kedu.com.br,11996814299,Coordenador Comercial,2025-04-29 14:14:06.236000000,2025-04-30 13:16:18.830000000
+18087,Cãmara Municipal de Vereadores de Candeias,Cassio Vinicius Figueredo Bordoni,mandatocassiovinicius@gmail.com,71988576732,Vereador,2025-04-28 15:10:51.753000000,2025-04-28 17:50:54.275000000
+18197,Metafuter,Guilherme Zancope,guilherme@metafuter.com,14996064037,Diretor/Vice Diretor,2025-05-01 14:32:06.666000000,2025-05-02 12:04:23.357000000
+18579,prefeitura municipal de limeira,Lucas Do Amaral Evangelista,lucasa.evangelista@gmail.com,19987804020,Coordenador/Supervisor,2025-04-29 17:27:34.797000000,2025-04-29 17:42:24.630000000
+18759,Editora Edinumen,Maria Eugenia Gomez,eugenia.gomez@edinumen.es,41992772828,Diretor/Vice Diretor,2025-04-29 15:32:13.492000000,2025-04-29 16:02:14.981000000
+18767,,Erika Stambovsky,stambovsky_v@yahoo.com.br,21981812615,Coordenadora de Marketing,2025-05-01 18:28:50.441000000,2025-05-01 18:30:16.882000000
+18836,,GABRIELLE,consultoria2@gohome.app.br,41984046774,CONSULTORA,2025-04-30 13:02:11.173000000,2025-04-30 13:02:54.420000000
+18839,Gohome,JESSICA,falecom@gohome.app.br,+5541995788403,CUSTOMER EXPERIENCE,2025-04-29 13:40:30.374000000,2025-04-29 13:42:48.136000000
+19748,Secretaria Municipal de Educação,Maria Isabel Crisostomo Da Silva,m.isabelcrisostomo@gmail.com,84991895887,Secretário Municipal de Educação,2025-04-28 17:24:51.090000000,2025-04-28 17:27:05.482000000
+19868,Prefeitura Municipal de Jardinópolis - S.P. - Secretaria de Educação,Camila Vacilotto,educa@jardinopolis.sp.gov.br,16991661606,Subsecretário de Educação,2025-04-29 14:02:22.055000000,2025-04-29 14:04:34.853000000
+19907,,Amanda Sousa,comercial@eadplataforma.com,,Gerente Comercial,2025-04-28 15:51:16.159000000,2025-04-28 16:04:22.330000000
+20012,cursos.io,David Martinez,david@cursos.io,34676177447,Manager,2025-04-29 17:07:53.869000000,2025-04-29 17:45:31.068000000
+20091,Secretaria Municipal de Educação,Denise Cristina Biasuz,denise.cristina@edujacarei.sp.gov.br,12988066328,Diretor/Vice Diretor,2025-04-28 20:14:14.796000000,2025-04-28 20:16:40.590000000
+20391,UNASP - Centro Universitário Adventista de São Paulo,Jalile Dessaune,jalile.dessaune@unasp.edu.br,19999382210,,2025-04-28 20:18:37.131000000,2025-05-01 12:32:28.246000000
+20400,,Rosane Vidmar,rosane.vidmar@cengage.com,11983813645,PRODUCT & MARKETING MANAGER,2025-04-29 19:25:35.144000000,2025-04-30 19:51:39.146000000
+20444,Ouro Moderno,Lisiano Lampert,lisiano@ouromoderno.com.br,51996491650,Diretor/Vice Diretor,2025-04-28 19:54:57.919000000,2025-04-28 20:03:59.503000000
+209,"SECRETARIA,MUNICIPAL DE EDUCAÇÃO",ABILIO JORGE CUNHA MACEDO,jorgeabilio89@gmail.com,98984419315,Subsecretário de Educação,2025-05-01 15:48:38.951000000,2025-05-01 15:49:19.157000000
+21031,Colégio Emilio Ribas / Anglo Educação Infantil,Wesley Vieira De Paula Gomes,wesley.eng.vieira@gmail.com,12988221991,Analista/Auxiliar/Assistente,2025-05-01 18:45:42.566000000,2025-05-01 18:51:35.948000000
+21215,,,,,,2025-05-01 12:27:48.252000000,2025-05-01 12:28:17.299000000
+21257,Mannesoft Prime,Lucas Ravedutti,lucasravedutti@mannesoft.com.br,+5541984533116,,2025-04-28 19:33:24.983000000,2025-04-28 20:04:54.949000000
+21258,Mannesoft Prime,Rafael Caetano,rafaelcaetano@mannesoft.com.br,+5541988204715,,2025-04-28 19:33:42.791000000,2025-04-28 21:57:16.303000000
+21300,Leograf,Rachel Mello,rachel.mkt@leograf.com.br,1136585000,Coordenadora Marketing,2025-04-30 12:22:17.406000000,2025-04-30 12:27:00.970000000
+21330,HERBY VISION BRASIL,Andrin Pelican,pelicanandrin@gmail.com,11962446881,Gestor/Gerente,2025-04-30 19:57:38.232000000,2025-04-30 19:58:26.400000000
+21883,ITMS Group,Luiz Atilio Vicentini,lavicentini@gmail.com,13997098071,Consultor/Especialista,2025-04-28 17:56:54.109000000,2025-04-28 18:02:37.733000000
+21980,LeadEdu,Georgia Dreyer,georgia.nunes@leadedu.com.br,11949616868,Consultor/Especialista,2025-04-29 14:34:38.678000000,2025-04-29 14:48:58.212000000
+2208,Get Informática,Luciane Campana,luciane.campana@getinfo.com.br,61996792557,Coordenador/Supervisor,2025-04-28 18:26:20.049000000,2025-04-28 18:26:46.825000000
+2216,Kazu Educa,Jorge KAZUO,jorge.kazuo@gmail.com,11930089070,Diretor/Vice Diretor,2025-04-28 12:21:24.327000000,2025-04-29 17:45:45.737000000
+22203,,Adriana Cristina Lefchak Mackievicz,adriana.mackievicz@linx.com.br,46991397116,Gerente de Produto,2025-04-28 13:51:06.417000000,2025-04-28 18:12:00.764000000
+22209,,Michelle Aparecida Terres Jakiemiu,michelle.jakiemiu@linx.com.br,46991037999,Gerente Comercial,2025-04-28 21:09:11.207000000,2025-04-29 00:12:44.360000000
+22775,,Marcio Canto,mcanto@eb.com,51992087101,Diretor Comercial,2025-04-30 16:51:35.936000000,2025-04-30 21:12:12.069000000
+22883,VieTech,Caroline Pereira,carolzanata2103@gmail.com,41988270233,Presidente/VP,2025-04-29 14:44:13.665000000,2025-04-29 14:45:44.767000000
+22886,LEO App,RODRIGO CAMPOS,rodrigo.campos@leo.app.br,32999429484,Presidente/VP,2025-04-28 16:29:35.727000000,2025-04-28 16:38:35.063000000
+22925,,Filipe Costa,filipe.costa@easyfood.com.br,21976196776,Comercial,2025-04-29 17:19:57.110000000,2025-04-29 20:20:35.923000000
+22997,Irium Editora,Vivianne Fonseca,vivianneterrezo@irium.com.br,21972631990,Gerente de marketing,2025-04-30 20:28:29.665000000,2025-04-30 20:30:41.979000000
+23063,,,,,,2025-05-01 12:33:04.604000000,2025-05-01 12:36:01.364000000
+23202,EDITORA MODERNA,Allen Anderson Antonio Dos Santos,contato.allenanderson@gmail.com,11952007054,Consultor/Especialista,2025-05-01 15:26:11.601000000,2025-05-01 15:28:00.057000000
+23268,,,,,,2025-05-01 12:28:06.982000000,2025-05-01 12:33:14.555000000
+23270,UNASP,Marccella Belvedere,marccella.belvedere@unasp.edu.br,00000000000,Secretário Escolar,2025-04-30 14:23:10.165000000,2025-04-30 14:29:25.585000000
+23271,UNASP,Edilei Lames,edilei.lames@unasp.edu.br,00000000000,Secretário Escolar,2025-04-30 18:29:48.276000000,2025-04-30 18:33:38.415000000
+23273,UNASP,Vinicius Oliveira,vinicius.foliveira@unasp.edu.br,00000000000,Secretário Escolar,2025-04-30 14:34:57.233000000,2025-04-30 14:45:18.848000000
+23587,Secretaria de Estado de Educação do DF,Claudimary Oliveira,claudimarypires@edu.se.df.gov.br,61981277431,Assessor Técnico,2025-04-28 16:06:33.255000000,2025-05-01 15:30:30.625000000
+23961,,Helena Longhi,helena.longhi@arecreativa.com.br,35991910862,Head Comercial,2025-04-28 20:37:00.664000000,2025-04-28 20:51:16.548000000
+24249,Secretaria Municipal da Educação de Araguaína,Jose Edson De Souza Castro,admhosp.edson@gmail.com,63992371577,Gestor/Gerente,2025-04-29 13:53:53.771000000,2025-04-29 13:54:24.515000000
+24405,,Robson Peixoto,rfpeixoto@eb.com,,,2025-04-29 17:52:12.061000000,2025-04-29 17:52:36.689000000
+24445,FTD Educação,Giselle Mussi De Moura,mouragbm@gmail.com,11983982783,Coordenador/Supervisor,2025-04-29 18:06:23.002000000,2025-04-29 18:57:20.211000000
+24914,VALSTEC,Gabriela,candidagabriela49@gmail.com,61983382662,Representante Comercial,2025-04-29 13:22:05.537000000,2025-04-29 13:25:41.584000000
+24947,Secretaria de Educação de Cotia,Leandro Yoshizumi,lemayo@hotmail.com,11999663586,Assessor Técnico,2025-04-29 17:22:10.417000000,2025-04-29 17:22:35.575000000
+25079,Agência Kharis,DHYOVAINE NASCIMENTO COSTA,dhyovaine@agenciakharis.com.br,27996672892,Presidente/VP,2025-04-28 14:58:55.546000000,2025-04-28 15:00:19.258000000
+25218,Opet,Rogeria Ciliao Nassarden,ROGERIACN@GMAIL.COM,41987143030,Consultor/Especialista,2025-04-30 19:00:22.028000000,2025-04-30 19:21:43.007000000
+25607,AULICA,Pedro Gregorio Gandolfo,pgandolfo@netbel.com.ar,5493515177638,Director/Vice Director,2025-04-29 14:12:06.922000000,2025-04-30 14:33:26.856000000
+25787,GRE Recife Norte - SEE/PE,Iury Sousa E Silva,iurysousa88@gmail.com,81985495129,GERENTE REGIONAL DE EDUCAÇÃO,2025-04-28 19:49:41.894000000,2025-04-28 19:52:30.163000000
+27077,Vassari Editorial,Paulo Junior,vassari@vassarieditorial.com.br,31992971370,Diretor pedagógico,2025-04-28 16:18:47.095000000,2025-04-28 16:21:21.662000000
+27082,Secretaria Municipal de Educação.,Syrlandia Da Silva Gomes,syrlandiagomes123@gmail.com,95 999032507,Vice Presidente da UNDIMERR,2025-04-29 17:25:54.251000000,2025-04-30 03:51:40.463000000
+27119,,Erika Costa,erika.costa@somoseducacao.com.br,11966189588,Coordenação,2025-04-30 14:07:46.366000000,2025-04-30 14:09:09.863000000
+2769,DTI Digital,Renan Azalim,renan.azalim@dtidigital.com.br,32998118974,Gestor/Gerente,2025-04-29 14:16:14.942000000,2025-04-29 14:20:40.569000000
+27954,SEDUC/SV,FABIANA MEIRA,meira.fabi@gmail.com,13933008674,Coordenador/Supervisor,2025-04-29 17:20:26.809000000,2025-04-30 12:02:57.949000000
+28079,Sintonia,Marcus Vinicius Iansen,viniciusiansen@yahoo.com.br,12997445275,Consultor/Especialista,2025-04-29 18:52:10.514000000,2025-04-29 18:54:24.279000000
+28231,FTD Educação,Luciana Leopoldino,luciana.leopoldino@ftd.com.br,11973482272,Gestor/Gerente,2025-04-30 19:17:46.791000000,2025-04-30 19:20:26.932000000
+28444,,Matheus Fideles,matheus.fideles@bemobi.com,,Gerente Comercial de Pagamentos,2025-04-28 14:26:28.029000000,2025-04-28 14:26:55.996000000
+28866,Secretaria municipal de educação de Tupã,Gislanine Claudino,gislanineclaudino@gmail.com,14997981846,Diretora de departamento pedagógico de 0 a 5 anos,2025-04-28 14:39:07.561000000,2025-04-28 14:42:27.615000000
+29147,SEDUC POJUCA,MARCUS SANTOS,marcusbrandaosantos@gmail.com,71994003043,Especialista em AI Education e Robótica Educacional,2025-04-28 20:05:26.176000000,2025-04-28 20:08:13.310000000
+29254,FTD Educação,Fabiana Sanchez,fabiana.sanchez@ftd.com.br,11993415770,Gestor/Gerente,2025-04-29 14:25:12.897000000,2025-04-29 16:36:34.755000000
+2946,Seduc sp,Mariangela Silvestre Santos Rocha,mariangela8987@hotmail.com,11987958304,Professor/Educador/Pedagogo/Orientador,2025-04-29 18:49:10.740000000,2025-04-29 18:49:51.598000000
+29468,,Priscila Limonta,priscila@bugbite.com.br,11995682412,Diretora,2025-04-30 20:07:06.422000000,2025-04-30 20:07:45.214000000
+29470,BUGBITE,Mari Lage,atendimento@bugbite.com.br,8581186089,Produtora,2025-04-29 21:24:50.418000000,2025-04-30 00:49:54.217000000
+29479,Secretaria de Educação de Taboão da Serra,LISLEY AMADO,lisleyrezende@hotmail.com,11966013566,Coordenador/Supervisor,2025-04-28 16:35:47.227000000,2025-04-28 16:36:41.207000000
+32187,Editora Moderna,Monica Maria Maldonado,mmaldonado@moderna.com.br,11997518715,Coordenador/Supervisor,2025-04-30 14:28:32.826000000,2025-04-30 14:29:00.792000000
+32346,Cesrei Faculdade,Samuel Cartaxo Nascimento,samuelcartaxo22@gmail.com,83991435507,Mantenedor,2025-04-30 17:30:25.853000000,2025-04-30 17:37:57.252000000
+32591,Cogna,DANIELE BRAIT,daniele.brait@saber.com.br,11960768383,Consultor/Especialista,2025-04-29 17:42:35.969000000,2025-04-29 17:43:13.440000000
+3276,Secretaria da Educação do Estado de São Paulo,Elaine Ferreira Da Silva,elainefj03@gmail.com,11980533525,Professor/Educador/Pedagogo/Orientador,2025-05-01 15:44:20.152000000,2025-05-01 15:46:06.715000000
+32791,Escoteiros do Brasil,Luciana Timoszczuk,lucysevo@uol.com.br,11994268523,Diretor/Vice Diretor,2025-04-29 14:33:05.007000000,2025-04-29 18:59:58.035000000
+32849,Prefeitura do Municipuio de Mauá,Lenir E P Galvao Rodrigus,lenirgalvao@educacao.maua.sp.gov.br,11986321234,Coordenador/Supervisor,2025-04-29 15:36:44.479000000,2025-04-29 15:37:18.423000000
+32981,Prefeitura Municipal de São Vicente,Ana Lucia Pinheiro,analuciapin.supervisora@gmail.com,13997376606,Coordenador/Supervisor,2025-04-29 17:21:28.629000000,2025-04-30 15:53:24.613000000
+32982,Secretaria de Educação- São Vicente/ SP,Ana Cristina Roberto Homsi,crishomsi@gmail.com,13991268548,Coordenador/Supervisor,2025-04-29 17:20:25.848000000,2025-04-29 17:21:22.606000000
+32989,Secretária de Educação,CRISTIANE TAVARES LEITE,cristavaleite@gmail.com,13997484216,Coordenador/Supervisor,2025-04-29 17:20:25.651000000,2025-04-29 17:22:20.602000000
+33067,,Carla,carioca@cariocabrasil.com.br,,Comercial,2025-04-28 12:43:58.097000000,2025-04-28 12:47:56.229000000
+33130,,Milena Sandrine Lopes Santos,contato@arteleitura.com.br,,Representante Comercial,2025-04-28 15:12:37.318000000,2025-04-28 15:13:04.244000000
+33466,Classica Distribuidora,Heloisa Carreira Dos Reis,heloisa@classicadistribuidora.com.br,31999513716,Distribuidor/Revendedor,2025-04-29 18:43:41.250000000,2025-04-29 19:09:28.252000000
+33508,Editora Opet,Silneia Chiquetto,silneiachiquetto@opet-sefe.com.br,41991715698,Gestor/Gerente,2025-04-30 19:00:53.625000000,2025-04-30 19:25:28.236000000
+33735,Cesrei Faculdade,Emanuel Nascimento,emanueldir@cesrei.edu.br,83991168500,Diretor/Vice Diretor/Presidente/VP,2025-04-30 17:19:23.113000000,2025-04-30 17:37:10.169000000
+33945,Universidade Paulista - UNIP,SANDRA CRISTINA FURLANETTO,sandracfurlanetto@gmail.com,11996376853,Coordenador/Supervisor,2025-04-30 13:59:48.178000000,2025-04-30 14:15:08.074000000
+34006,SEDUC DE SAO VICENTE,BELOMITA HORTENCIA  CIRIACO DE CA...,belomitacarvalhosv@gmail.com,13997249217,Assessor Técnico,2025-04-29 15:12:05.103000000,2025-04-29 15:12:33.658000000
+3431,Secretaria municipal de educação de Tupã,Aline Lima,aline__ml@hotmail.com,14996798729,Gestor/Gerente,2025-04-28 14:37:55.210000000,2025-04-28 14:44:56.377000000
+35062,Amazon,Ana Andreghetto,alaurafa@amazon.com,11971208113,Consultor/Especialista,2025-04-28 13:13:05.208000000,2025-04-28 13:13:59.303000000
+35084,secretaria de estado da educação do Amapá-SEED,ANDRE LUIZ CAMILO BRAGA,camilo.braga@yahoo.com.br,96981019784,Gestor/Gerente,2025-04-29 19:14:07.116000000,2025-04-29 19:22:23.166000000
+35096,Richmond Santillana,Luke Baxter,lbaxter@richmondelt.com,447485038873,Manager,2025-04-28 19:39:57.677000000,2025-04-28 19:49:11.428000000
+35238,Prefeitura Municipal,Felipe Ribeiro,felipe.ribeiro@grupoassessor.com,18991198069,Gestor/Gerente,2025-04-29 13:57:32.675000000,2025-04-29 13:59:50.156000000
+35251,Edu Think,Euripedes Junior,euripedesjunior1211@gmail.com,63992345268,Administrador ,2025-04-28 19:44:27.978000000,2025-04-28 19:46:00.677000000
+35376,NEW PC,Alan,alan@newpc.com.br,67998104121,Diretor/Vice Diretor,2025-04-28 15:38:43.387000000,2025-04-28 15:39:59.598000000
+35533,,Joao Hoeppner,joao@greatplacetostudy.com.br,14996020101,Produtor de conteúdo (influencers),2025-04-29 16:46:42.848000000,2025-04-29 16:47:51.202000000
+35758,,Everton Marcelino Junior,everton@stift.com.br,,CTO,2025-04-28 17:54:37.748000000,2025-04-28 17:54:58.433000000
+35864,Unira educação,Luana Pedro,luacdp@gmail.com,19982320564,Presidente/VP,2025-04-29 16:04:48.348000000,2025-04-29 16:23:30.353000000
+36044,WRW Contact Center,Andressa Marisa De Oliveira,andressa.marisa.oliveira@gmail.com,11948431639,Coordenador/Supervisor,2025-04-29 17:55:29.431000000,2025-04-29 18:36:34.801000000
+36100,Bobby Edu,ISABELA SILVA,isabela.rodrigues@bobby.com.br,99981650323,Analista de Operações Corporativas,2025-04-30 21:04:15.765000000,2025-04-30 21:13:44.575000000
+36389,Prefeitura Municipal de São Vicente,Ana Oliveira,aeeprofanaborges@gmail.com,13981249804,Assessor Técnico,2025-04-29 14:19:20.635000000,2025-04-29 14:19:50.327000000
+36511,Semed,Luana Mattos,luana_2106@hotmail.com,92981954732,Gestor/Gerente,2025-04-28 19:47:56.510000000,2025-04-30 18:20:31.271000000
+36539,APIS design integrado ME,Karina Cossaros De Freitas,f.karina@apisdesign.com.br,11976663318,Consultor/Especialista,2025-04-28 17:28:03.499000000,2025-04-28 17:35:32.482000000
+36552,APIS design,Everton Bernardes Da Silveira,everton@apisdesign.com.br,11983251119,Coordenador/Supervisor,2025-04-28 17:28:38.888000000,2025-04-28 17:37:38.273000000
+36604,FTD Educação,Lais Munhoz,lais.munhoz@ftd.com.br,11996940562,Consultor/Especialista,2025-04-29 16:36:36.851000000,2025-04-29 16:39:06.000000000
+36729,FTD Educação,Bianca Freire Carneiro Pereira,biancafreirec@outlook.com,81996817147,Analista/Auxiliar/Assistente,2025-04-28 14:33:16.560000000,2025-04-28 14:39:02.583000000
+36747,Autônomo,Cristiane Lustosa,cristianelustosajor@gmail.com,11987178161,Autônomo,2025-04-30 21:19:29.703000000,2025-05-01 13:21:40.106000000
+36863,Ouro Moderno,Fernanda De Siqueira,feernandasiqueira@gmail.com,51982876171,Estudante,2025-04-28 19:58:45.744000000,2025-04-28 20:04:26.759000000
+36972,Secretaria Municipal de Educação,LUCIANE CRISTINA OLIVEIRA,ludmilaolliveira@gmail.com,11993731527,Coordenador/Supervisor,2025-04-30 15:27:56.811000000,2025-04-30 15:29:36.411000000
+37183,Instituto Turbinador de Carreira LTDA,Ricardo Silva,turbinadordecarreira@gmail.com,19199971119,Diretor/Vice Diretor,2025-04-29 22:03:45.159000000,2025-04-29 22:14:06.051000000
+37583,,,,,,2025-05-01 12:40:06.168000000,2025-05-01 12:46:30.297000000
+37625,,Diogenes Da Silva Severino,diogenes@matific.com,,Gerente de Projetos,2025-04-30 19:35:34.430000000,2025-04-30 19:41:57.073000000
+37738,,Bruno Ribeiro Rocha,brunorrocha03@gmail.com,,Apoio,2025-05-01 14:34:15.783000000,2025-05-01 14:35:52.696000000
+37859,Grupo Assessor,Pedro Augusto Valverde,valverdpedro@gmail.com,18981069089,Autônomo,2025-04-29 13:59:19.902000000,2025-04-29 14:06:24.503000000
+37918,Plataforma Semente,Milena Tomaz,milena.tomaz@sementeeducacao.com.br,11981116469,Coordenador/Supervisor,2025-04-30 17:17:12.729000000,2025-04-30 17:21:18.970000000
+37956,Secretaria Municipal de Educação,Adelaide Conceiçao De Oliveira,adelaide.souza@botucatu.sp.gov.br,14991971102,Coordenador/Supervisor,2025-04-30 17:43:06.165000000,2025-04-30 17:51:50.153000000
+38066,Pedalume,ANA CLAUDIA DE OLINDA PREDOLIM,ana.predolim@pedalume.com.br,11999790547,Diretor/Vice Diretor,2025-04-30 19:14:12.258000000,2025-04-30 19:14:49.010000000
+3812,Poliedro Educação,Francine Almeida Toledo,francine.toledo@sistemapoliedro.com.br,12997630080,Analista/Auxiliar/Assistente,2025-04-29 18:12:29.282000000,2025-04-29 18:16:30.208000000
+38161,Prefeitura da Estância de Atibaia,Joao Vicente De Oliveira Passos,jpassos@atibaia.sp.gov.br,11974143868,Gestor/Gerente,2025-04-28 13:15:09.034000000,2025-04-28 13:17:58.414000000
+38730,A NOSSA LIVRARIA DE BELO HORIZONTE,ALEXANDER ANTONIO SANTIAGO,alexander.santiago@domusbrasilis.com.br,31987043703,Distribuidor/Revendedor,2025-04-28 15:54:27.508000000,2025-04-28 16:02:29.862000000
+38868,RobotCrafteducation,Franciele Pastori,franciele.pastori@robotcrafteducation.com,43999735862,Autônomo,2025-05-01 14:32:36.341000000,2025-05-01 14:41:57.526000000
+38919,V2N Produtos e Serviços,Fernando Cesar Junior,FERNANDO_VIANNA@HOTMAIL.COM,48999617720,Autônomo,2025-04-29 20:01:30.600000000,2025-04-29 20:02:24.533000000
+39060,Prefeitura Municipal de São José dos Campos - SEC,Francilene Silverio,francilenesilverio@gmail.com,12997895991,Chefe de Gabinete,2025-04-28 14:16:57.986000000,2025-04-28 14:19:28.434000000
+3911,Conteúdo Educacional,Davi Rossini,davirossini@gmail.com,11993272829,CEO,2025-05-01 17:10:46.628000000,2025-05-01 17:13:45.707000000
+39386,,Franciele Cristina De Paula,franciele@classapp.com.br,11974244400,Produtora de Conteúdo,2025-05-01 17:40:17.325000000,2025-05-01 20:41:18.472000000
+3939,Secretaria Municipal de Educação,Rosa Maria,rosclamu@gmail.com,11947120094,Subsecretário de Educação,2025-04-29 15:56:48.839000000,2025-04-29 16:03:34.097000000
+39432,Super Ensino,ERIKA CRISTINA BARBOSA,erikacrisb@yahoo.com.br,19998238935,Gestor/Gerente,2025-04-30 14:27:53.936000000,2025-04-30 14:29:17.745000000
+39435,Fundação de Apoio ao Desenvolvimento da Educação Básica,Matheus Roque,mroque@fadebms.org,67992395402,Coordenador/Supervisor,2025-04-28 16:16:32.223000000,2025-04-28 16:34:35.267000000
+39946,Secretaria Municipal de Botucatu,Danielle Aline Spadim De Souza,danielle.souza@botucatu.sp.gov.br,14997659770,Coordenador/Supervisor,2025-04-30 19:00:56.617000000,2025-04-30 19:04:43.499000000
+4000,FMU,JULIANA DUARTE LEANDRO,JULIANA.LEANDRO@FMU.BR,11989393705,Diretor/Vice Diretor/Presidente/VP,2025-04-30 12:15:30.351000000,2025-04-30 12:20:55.139000000
+40053,Prefeitura Municipal e Palmital,Marcia (dme),marciadescrove@hotmail.com,18996070264,Dirigente Municipal de Educação (DME),2025-04-28 14:40:20.296000000,2025-04-28 14:43:44.799000000
+40059,PREFEITURA DE JARDINÓPOLIS,Leandro Alcasar Rodrigues,educa@yahoo.com.br,16997961341,Secretário(a) Municipal de Educação,2025-04-29 14:02:17.153000000,2025-04-30 16:44:26.520000000
+40066,SECRETARIA DE EDUCAÇÃO E CIDADANIA ,Ruth Fernandes Zorneta,ruthzorneta1@gmail.com,12981180088,Secretário(a) Municipal de Educação,2025-04-30 17:06:24.573000000,2025-04-30 17:09:04.033000000
+40087,PREFEITURA DA ESTÂNCIA TURÍSITICA DE TUPÃ,Carla Brandao,carlaortega.brandao@gmail.com,14996807660,Secretário(a) Municipal de Educação,2025-04-28 14:37:48.041000000,2025-04-28 14:39:41.669000000
+40170,SECRETARIA MUNICIPAL DE EDUCAÇÃO ,Perla Nelly Menezes Reboiras,perla.nelly10@gmail.com,79999850661,Dirigente Municipal De Educação (Dme),2025-04-29 17:25:22.103000000,2025-04-29 17:31:44.706000000
+40307,Universidade de Gurupi,SAMARA GOMES,samaratatielle@unirg.edu.br,91982390560,Gestor/Gerente,2025-04-28 16:03:30.038000000,2025-04-30 00:12:33.181000000
+40316,,Mara Gitti Assis,mara.gitti@batistabrasileiro.com.br,,Diretora,2025-04-28 14:41:20.832000000,2025-04-28 14:41:44.968000000
+40332,Brasil Escola - Rede Omnia,Regina Carvalho,regina_dvcarvalho@hotmail.com,11983192379,Gestor/Gerente,2025-04-30 20:53:26.988000000,2025-04-30 20:56:43.147000000
+40699,027.381.484-25,Patricia Silveira,ptsilveiral@gmail.com,83998664638,Supervisor,2025-04-29 16:46:10.153000000,2025-04-29 16:57:40.865000000
+40701,RobotCrafteducation,Fabio Junior De Jesus Penna,fabiojuniorpenna@gmail.com,43999884512,Consultor/Especialista,2025-05-01 14:33:38.187000000,2025-05-01 14:36:30.445000000
+40730,FORME Educação Financeira,Cibele Da Costa Oliveira,belinha1906@gmail.com,11913081418,Analista/Auxiliar/Assistente,2025-04-30 19:30:29.246000000,2025-04-30 19:32:06.674000000
+40900,Prefeitura Municipal de Botucatu,Claudia Do Carmo Costa Lopes,claudiaccostalopes@gmail.com,14997140479,Assessor Técnico,2025-04-30 19:01:36.461000000,2025-04-30 19:04:21.774000000
+40991,Blocksi,Aleksander Pereira,comercial@blocksi.net,11986873432,Gerente Comercial - Blocksi,2025-05-01 19:20:02.749000000,2025-05-01 19:22:26.392000000
+41010,Sebrae/SC,Ionita Lunelli,ionita@sc.sebrae.com.br,47999691088,Gestor/Gerente,2025-04-29 16:44:29.207000000,2025-04-29 16:47:26.942000000
+41033,Educa,Carla Dondas,carla.dondas@soueduca.com,11992304768,Diretora de Operações e Gente,2025-04-30 13:55:43.982000000,2025-04-30 13:58:55.542000000
+41203,Secretaria Municipal de Educação,Bartolomeu Gomes,bartogomes8@hotmail.com,98991260287,Coordenador/Supervisor,2025-04-29 16:53:42.916000000,2025-04-29 16:54:23.124000000
+41233,Mira Bootcamp,Tamires Marques,thammy.personal@outlook.com,19995120045,Gestor/Gerente,2025-04-28 16:14:16.977000000,2025-05-01 21:14:04.146000000
+41370,UNIPLENA EDUCACIONAL,Bianca Gomes Da SILVA,biancagsilva2@gmail.com.br,11993502226,Coordenador/Supervisor,2025-04-29 20:14:21.011000000,2025-04-29 20:17:01.857000000
+41422,,Ana Carolina Medeiros,Ana.medeiros@gruposaltaedu.com,,Coordenadora Pedagógica,2025-04-30 17:04:57.910000000,2025-05-01 19:18:41.974000000
+41424,Linkface Tecnologia Ltda,Jose Carlos Dias Da Silva,josecarlos@linkface.com.br,11996604386,Diretor/Vice Diretor,2025-04-29 18:57:12.633000000,2025-04-29 18:58:12.083000000
+41510,,Victor Cardoso,victor.cardoso@inteligenciadevida.com.br,,Coordenador Jurídico,2025-04-30 21:07:33.102000000,2025-05-01 05:10:16.330000000
+41713,Secretaria Municipal de Educação de Itaquaquecetuba,Vanessa Pessoa,vane.pedagogia@hotmail.com,11953145281,Professor/Educador/Pedagogo/Orientador,2025-05-01 13:14:17.085000000,2025-05-01 16:05:58.851000000
+41873,Sebrae,Livia Maria Davis Abreu Chaves Do...,livia.melo@pi.sebrae.com.br,86994421010,Gestor/Gerente,2025-04-30 14:06:29.830000000,2025-04-30 14:13:32.277000000
+41898,Secretaria Educação São João Nepomuceno,Rafaela Costa,rafaelasecsjn@gmail.com,32988810763,Secretário Escolar,2025-04-28 17:43:12.786000000,2025-04-28 17:43:44.718000000
+41966,Fundação de Apoio ao Desenvolvimento da Educação Básica,MATHEUS DE BRITO REIS,mbrito@fadebms.org,35984354952,Coordenador de Projetos,2025-04-28 16:18:56.668000000,2025-04-28 16:22:38.352000000
+42011,,Rebecca Teixeira,rebecca.teixeira@bernoulli.com.br,3287686570,Gerente de Marketing,2025-04-28 13:37:31.549000000,2025-04-28 14:45:37.894000000
+42105,Bernoulli ,Gabriela Mayrink,gabrela.mayrink@bernoulli.com.br,31975160270,Coordenadora de Comunicação Institucional,2025-04-28 12:46:04.393000000,2025-04-28 12:58:35.583000000
+42147,,Iris Arana,irisarana777@gmail.com,4797600384,Supervisora Comercial,2025-05-01 20:43:00.459000000,2025-05-10 21:01:07.320000000
+42213,SECRETARIA MUNICIPAL DE EDUCAÇÃO DE TOURIS/RN,CESAR MARTINIANO LOPES,cesar_mlopes@hotmail.com,84991384428,Coordenador/Supervisor,2025-04-29 18:41:47.034000000,2025-04-29 20:58:42.243000000
+42354,,Wilson Fukuda Junior,w.fukuda@samsung.com,11960759611,Head de Produtos,2025-04-29 20:38:50.735000000,2025-04-29 20:46:41.920000000
+42690,,Giovanna Engelbrecht,giovanna.engelbrecht@hsl.org.br,11966409737,Coordenadora de Novos Negócios,2025-04-30 20:48:45.361000000,2025-05-01 11:19:19.096000000
+43407,SoftwareOne,Alessadro Silva,alessandro.teixeira@softwareone.com,11999285717,Gestor/Gerente,2025-05-01 15:45:34.560000000,2025-05-01 15:51:37.094000000
+43408,Santillana Educação,Joabe Sciencia,joabe.sciencia@gmail.com,11999229366,Coordenador/Supervisor,2025-04-28 17:00:15.931000000,2025-04-28 19:11:06.554000000
+43565,,,,,,2025-05-01 12:06:07.231000000,2025-05-01 13:29:52.183000000
+43569,Nitro,Filipe Gerude,filipe.gerude@futureme.tech,21994027702,CEO,2025-05-01 13:46:05.065000000,2025-05-01 20:44:10.460000000
+43733,PREFEITURA ,Raquel Lima De Moura,raquel.roberio@hotmail.com,84994177029,Dirigente Municipal De Educação (Dme),2025-04-30 18:58:31.507000000,2025-04-30 18:59:03.845000000
+43745,PREFEITURA,Alzira Carmo,alzirarocha1@hotmail.com,84998510123,Dirigente Municipal De Educação (Dme),2025-04-30 13:18:04.637000000,2025-04-30 13:20:27.072000000
+43753,PREFEITURA MUNICIPAL DE NATUBA ,Andressa Julliett Cavalcante Pere...,andressajulliettcp@hotmail.com,83982157521,Dirigente Municipal De Educação (Dme),2025-05-01 17:32:48.308000000,2025-05-01 17:39:14.382000000
+43763,Secretaria de educação ciências e Tecnologia ,Adenilson Dias De Souza,adenilsonoabma@gmail.com,99984879553,Dirigente Municipal de Educação (DME),2025-04-29 16:02:04.870000000,2025-04-29 21:40:37.651000000
+43803,PREFEITURA MUNCIPAL DE BERTIOGA,Michelle Santos Do Nascimento,michelle.nascimento@seducbertioga.com.br,13988070380,Chefe De Formação Pedagógica Em Tecnologia Educacional,2025-04-30 17:17:09.145000000,2025-04-30 17:21:10.145000000
+43855,PREFEITURA,Daniela Dias,dannyela_dias@hotmail.com,11973196344,Analista/Auxiliar/Assistente,2025-04-29 17:05:32.238000000,2025-04-29 17:10:35.354000000
+43861,PREFEITURA,Solange Da Gloria Cardoso Nunes,solangegcn@hotmail.com,15997720022,Analista/Auxiliar/Assistente,2025-04-29 17:05:28.120000000,2025-04-29 17:10:44.661000000
+44551,Inicie,Giovanna Carvalho,g@inicie.digital,11995729802,Coordenador/Supervisor,2025-04-30 17:26:56.658000000,2025-04-30 17:39:14.795000000
+44579,SANUTRIN,LETICIA STRADIOTO,LETICIA.STRADIOTO@SANUTRIN.COM.BR,11992353035,Coordenador/Supervisor,2025-04-30 18:38:47.264000000,2025-04-30 18:53:21.664000000
+44585,SANUTRIN,RYUNG HEE CHO,ryung@sanutrin.com.br,11997090836,Diretor/Vice Diretor,2025-04-30 18:41:17.672000000,2025-04-30 18:54:48.903000000
+44894,Cielo,Amanda Brandao,amandabi@cielo.com.br,+5511957712226,,2025-05-01 20:02:14.543000000,2025-05-01 20:04:26.201000000
+44942,School Picture,Joyce Boaventura,joyce.boaventura@schoolpicture.com.br,19981341053,Gestor/Gerente,2025-04-28 13:59:51.572000000,2025-04-28 14:03:18.174000000
+45653,Bassani Administração,Ivone,harphiaterapia@gmail.com,11940090640,Psicólogo/Psicopedagogo,2025-05-01 14:38:55.218000000,2025-05-01 14:40:11.258000000
+46140,Kedu,Hamilton Junior,hamiltonjunior@kedu.com.br,+5585982098895,Diretor,2025-04-30 13:11:23.866000000,2025-04-30 13:21:54.535000000
+46290,Secretaria de Educação Capivari,Bruna Dos Santos Camargo,bs.camargo.0@gmail.com,19991957446,Professor/Educador/Pedagogo/Orientador,2025-04-30 15:29:44.962000000,2025-04-30 17:33:40.169000000
+46360,School Picture,Bruna Bastos,bruna.bastos@schoolpicture.com.br,19982208716,Coordenador/Supervisor,2025-04-28 13:59:47.742000000,2025-04-28 14:03:01.306000000
+46364,School Picture,Naiara Amadeu Placido,naiara.placido@schoolpicture.com.br,19994456343,Coordenador/Supervisor,2025-04-28 14:00:31.373000000,2025-04-28 14:05:04.970000000
+46447,Unimestre Superior,Ana Lucia Metchko,ana.lucia@unimestresuperior.com,41997421616,Consultor/Especialista,2025-04-29 17:06:33.621000000,2025-04-29 17:08:51.844000000
+46941,,Marcos Reis,marcos.reis@sophia.com.br,,Gerente de Desenvolvimento,2025-04-28 14:48:05.781000000,2025-04-30 13:33:56.379000000
+46951,,Luiz Renato,luiz.ferreira@sophia.com.br,,Tech Lead,2025-04-30 20:40:40.953000000,2025-04-30 20:42:51.253000000
+46973,,Simone Lima,simone.lima@volarisgroup.com,,CFO Sophia,2025-04-29 13:45:41.528000000,2025-04-29 13:46:02.834000000
+46985,,Heloisa Rodolfo,heloisa.rodolfo@sophia.com.br,,Designer de Produto,2025-04-29 14:21:30.037000000,2025-04-29 14:42:58.856000000
+47120,Bank of America,Vitor Ramos,vitor.ramos@bofa.com,11975415152,Coordenador/Supervisor,2025-04-30 14:32:15.604000000,2025-04-30 14:32:49.718000000
+47124,,,,,,2025-05-01 12:39:40.667000000,2025-05-01 12:40:36.450000000
+47320,Criabiz Ventures Participações S.A.,Christian Pensa,christian@criabiz.com,15997181817,Presidente/VP,2025-04-30 15:02:47.474000000,2025-04-30 15:03:23.473000000
+47346,NTM LOG TRANSPORTES,ROSANGELA HERRERA,rosangela.herrera@ntmlogtransportes.com.br,11940164828,Gestor/Gerente,2025-04-30 19:00:26.350000000,2025-04-30 19:06:55.615000000
+47419,Dartha Educação,Pedro Aguiar,pedro@dartha.com.br,66996252049,Presidente/VP,2025-04-29 18:45:33.637000000,2025-04-29 18:52:49.778000000
+47422,Dartha Educação,Ana Luiza,analubacca@gmail.com,66996152946,Diretor/Vice Diretor,2025-04-29 18:45:33.939000000,2025-04-29 18:49:38.511000000
+47587,"Secretaria Municipal de Educação, Ciência e Tecnologia de Hortolândia",Antonio Carlos Lepri Junior,antoniocarlosleprijunior@gmail.com,19987254969,Coordenador/Supervisor,2025-04-29 14:49:17.330000000,2025-04-29 14:56:00.411000000
+47748,Prefeitura de Jundiaí CMEJA,Lucelia Moura,luceliamoura@jundiai.sp.gov.br,11972753176,Diretor/Vice Diretor,2025-04-29 16:24:34.988000000,2025-04-29 16:27:10.587000000
+47942,Next Gen Experience,Karine Rebouças,karine.reboucas@campus-party.com.br,11972760265,Diretor/Vice Diretor,2025-04-28 20:37:47.054000000,2025-04-28 21:47:04.378000000
+47956,V2N EDUC,GABRIELA SOARES SANT ANA,conteudista.gso@gmail.com,48991534038,Gestor/Gerente,2025-04-29 20:02:38.731000000,2025-04-29 20:06:52.203000000
+48060,,TALITA CAROLINE DE SOUZA LEAL,TALITA.SOUZA@INTERNATIONALSCHOOL.GLOBAL,11971903191,ESPECIALISTA DE EFICIENCIA E QUALIDADE PL,2025-04-28 20:44:31.143000000,2025-04-28 20:45:40.775000000
+48371,National Geographic Learning,DIEGO SANTOS SILVA,dicontadm@hotmail.com,11980872722,Coordenador/Supervisor,2025-04-30 18:51:34.173000000,2025-04-30 20:35:05.952000000
+48380,CANVA,Kelly Dinh,kdinh@canva.com,,Marketing,2025-05-01 17:37:09.848000000,2026-03-13 11:53:00.377000000
+4940,Easytech profissão,Liliane De Cassia Da Silva Ribeiro,liliane2525sp@gmail.com,11913309714,Gestor/Gerente,2025-04-29 15:54:28.076000000,2025-04-29 15:57:48.467000000
+49550,Domus Brasilis,Rafaela Gonçalves,rafaela.fernandes@domusbrasilis.com.br,34996798408,Distribuidor/Revendedor,2025-04-29 18:38:24.687000000,2025-04-30 09:38:51.069000000
+49608,Porto Seguro,Eronides Filho,eronidesfilho@yahoo.com.br,13997140434,Consultor/Especialista,2025-05-01 17:59:55.705000000,2025-05-01 19:20:57.468000000
+49814,,Mayra Dos Santos Guidorizzi,mayra.guidorizzi@escoteiros.org.br,55419677910,Gerente de Gestão Estratégica,2025-04-29 18:51:54.489000000,2025-04-29 18:55:33.794000000
+49928,,REGINA MADUREIRA,REGINA.MADUREIRA@INTERNATIONALSCHOOL.GLOBAL,11993072610,"DIRETORA DE PUBLISHING, KNOWLEDGE CENTRE & ISMAX",2025-04-28 18:39:33.668000000,2025-04-30 01:37:10.982000000
+50143,Grupo ATMO,Bruna Farias Pereira,bruna.farias@youbilingue.com.br,13981116396,Coordenador/Supervisor,2025-04-29 13:59:54.440000000,2025-04-29 14:00:14.252000000
+5016,Live University,Rafael Andrade,rafael.andrade@liveuniversity.com,11919350582,Gestor/Gerente,2025-04-29 15:33:43.434000000,2025-04-29 15:39:12.304000000
+50486,Grupo Unite,LUCIANO PENTEADO,luciano_penteado@hotmail.com,41999114334,REPRESENTANTE COMERCIAL,2025-04-28 15:11:40.146000000,2025-04-28 15:14:19.301000000
+50495,,Daniel Moraes,daniel.oliveira@grupoibep.com.br,11997215526,Produtor de conteúdo (influencers),2025-05-01 20:43:00.653000000,2025-05-01 20:43:29.048000000
+50585,Grupo IBEP Educação,Renato Zanni,renato.silva@grupoibep.com.br,11953751126,Coordenador/Supervisor,2025-04-30 17:56:00.155000000,2025-04-30 18:05:28.444000000
+50624,SECRETARIA MUNICIPAL DE EDUCAÇÃO,MARCILENE SILVA,silvagontijo@hotmail.com,63992063449,Assessor Técnico,2025-04-30 13:08:28.522000000,2025-04-30 13:12:11.478000000
+50626,Santillana Educação,Everton Luis,eloliveira@santillana.com,11971949323,Coordenador/Supervisor,2025-04-30 17:00:47.730000000,2025-04-30 17:01:15.561000000
+50645,isaac,Rennan Fernandes De Barros Coutinho,rennan.coutinho@isaac.com.br,11944401632,Gestor/Gerente,2025-04-30 16:46:09.054000000,2025-04-30 16:48:13.036000000
+50745,Secretaria Municipal de Educação de Ilha Solteira,Ariane  Cristina Xavier,ariane.xavier1@gmail.com,18997264700,Técnico da Secretaria de Educação,2025-04-30 20:20:10.660000000,2025-04-30 20:35:28.570000000
+50775,PREFEITURA MUNICIPAL DE PINDORETAMA,Paulo Sergio Nogueira,paulosergion113@gmail.com,85989987901,Secretário(a) Municipal de Educação,2025-05-01 13:47:14.809000000,2025-05-01 16:41:03.205000000
+50808,Secretaria municipal da Educação de Sucupira/TO,Humberto De Campos Castilho,humberto.campos@hotmail.com,63984908123,Dirigente Municipal de Educação (DME),2025-04-29 17:02:53.555000000,2025-04-29 17:10:38.085000000
+50809,Secretaria Municipal da Educação de Cristalândia,Wesley Portugal Lima,wesley19852008@gmail.com,63 98407-1579,Dirigente Municipal de Educação (DME),2025-04-29 17:03:20.442000000,2025-04-29 17:11:46.210000000
+50983,Uniasselvi,Sheila De Oliveira Santos,sheila.santos@uniasselvi.com.br,11933502428,Gestor/Gerente,2025-04-29 18:26:25.686000000,2025-04-29 21:02:34.800000000
+51272,CANVA,Karla Assis,karla.assis@canva.com,,Marketing | Canva,2025-05-01 19:23:38.275000000,2025-05-01 19:24:08.979000000
+51273,,Roberta Aquino,roberta@educabydesign.com,,Especialista Canva,2025-05-01 15:34:59.435000000,2025-05-01 15:37:03.846000000
+5128,toLearn,Adriel,adricarvalhobispo@gmail.com,11964512959,Presidente/VP,2025-04-30 19:08:50.196000000,2025-04-30 19:14:46.955000000
+51633,Unifatecie,Camila Da Silva Celestino,camila.aterapeuta@gmail.com,12999999999,Estagiário/Trainee,2025-04-30 19:15:29.928000000,2025-04-30 19:17:09.337000000
+5185,FTD Educação,Marianna Duarte,marianna.lavega@gmail.com,21982941066,Coordenador/Supervisor,2025-05-01 17:02:46.349000000,2025-05-01 17:08:13.635000000
+51859,Prefeitura Municipal de Leme,Juliana Daiane Da Rocha,julianadaiane@yahoo.com.br,19996095462,Analista/Auxiliar/Assistente,2025-04-29 14:52:36.095000000,2025-04-29 15:09:03.965000000
+51865,,Malu Flores,ml@parceriailimitada.com.br,,Atendimento,2025-04-30 12:09:55.462000000,2025-04-30 15:47:37.342000000
+52242,DTI,Andressa Ederer,andressa.ederer@gmail.com,35991702633,Product Manager,2025-04-29 14:18:46.375000000,2025-04-29 14:19:09.452000000
+53162,Secretaria Municipal De Educação De Centro Do Guilherme/Ma ,Flavio Sousa,flavioprof.fs@gmail.com,98 98499-0247,Dirigente Municipal De Educação De Centro Do Guilherme/Ma ,2025-04-30 12:57:57.669000000,2025-04-30 15:22:11.253000000
+53321,Prefeitura Municipal de Jacareí,Elisama De Barros Da Silva Abade,elisama30133@prof.edujacarei.sp.gov.br,12996674987,Professor/Educador/Pedagogo/Orientador,2025-04-28 16:04:35.738000000,2025-04-28 16:10:03.652000000
+54014,Se Liga,Tatiana Solla,tatasolla@gmail.com,11996704760,Gestor/Gerente,2025-04-30 20:14:29.081000000,2025-12-12 14:06:09.927000000
+54171,RC Consultoria,Ronald Cezar,czronald@icloud.com,11998243686,Diretor/Vice Diretor,2025-04-30 21:37:43.841000000,2025-04-30 21:38:15.382000000
+54282,Mello Marketing Escolar,Guilherme Marcon,contato@mktmello.com.br,11994222330,Coordenador/Supervisor,2025-04-28 21:11:01.492000000,2025-04-28 21:15:51.793000000
+54585,Sebrae Goiás,Bruna Roldao Maia Moreira,bruna.moreira@sebraego.com.br,62984937534,Gestor/Gerente,2025-04-29 19:09:22.030000000,2025-04-29 19:16:03.798000000
+5461,E.E Prof° Narbal Fontes,Marcos Rogerio Silva,marcosrogerio80@yahoo.com.br,11975588520,Inspetor Escolar,2025-04-29 19:40:09.733000000,2025-04-30 21:44:29.422000000
+54748,PREFEITURA DE CAPIVARI,MILENA DE FATIMA ROSSI MAESTRELLO,supervisaomilena@gmail.com,19992632328,Coordenador/Supervisor,2025-04-30 15:31:24.570000000,2025-04-30 15:32:01.904000000
+54786,Cogna,PRISCILA DIAS GIGOLLOTTI,priscila.gigollotti@Kroton.com.br,19981742118,Gestor/Gerente,2025-04-30 13:01:51.979000000,2025-04-30 13:07:47.288000000
+54812,Parque Caminhos do Mar,EDGAR SCHMIDT GALLARDO,edgar.gallardo@parquetur.com.br,11994384254,Representante Comercial,2025-04-29 13:30:02.250000000,2025-04-29 13:31:59.620000000
+55018,FTD,Rafael Leonel,rafamedeirosleonel@gmail.com,11975380525,Analista de  Eventos,2025-04-30 20:48:11.753000000,2025-04-30 23:13:51.071000000
+55218,,Alice Raphael,alice.raphael@edifyeducation.com.br,22999852737,Coordenadora de Marketing,2025-04-30 17:11:07.760000000,2025-04-30 21:17:08.475000000
+55235,Centro Universitário Belas Artes,Leandro Higa,leandro.higa@belasartes.br,11982027582,Diretor/Vice Diretor/Presidente/VP,2025-04-29 15:12:32.133000000,2025-05-08 16:44:45.110000000
+55480,LECIONA AI,Ataide Ribeiro,ataide@lecionaai.com,12997774690,Presidente/VP,2025-04-30 13:19:54.957000000,2025-04-30 13:20:29.330000000
+55612,EMEB DARCY RIBEIRO,ROSALIA FRANCISCO DOS SANTOS,rosaliafco@gmail.com,11971973882,Diretor/Vice Diretor,2025-04-30 15:36:14.439000000,2025-04-30 21:29:41.916000000
+56446,Econrio,Priscila Brito,pnobrito@gmail.com,21981710491,Gestor/Gerente,2025-04-30 15:19:43.661000000,2025-04-30 15:27:03.622000000
+56701,S2 CRIAÇÃO E NEGÓCIOS SS LTDA,LUIZ MANUEL FARIA DE SOUSA,LM@S2MKT.COM.Br,11992810029,Diretor/Vice Diretor,2025-04-28 22:13:40.121000000,2025-04-28 22:14:18.248000000
+56947,Secretaria de Educação e Cidadania,Graziela Beatriz De Oliveira,graziela.oliveira@edusjc.sp.gov.br,12997629529,Coordenador/Supervisor,2025-04-30 12:57:35.912000000,2025-04-30 13:00:29.704000000
+57673,Secretaria De Educação De Mato Grosso Do Sul,Sergio Luiz Gonçalves,sgoncalves@sed.ms.gov.br,,Secretário Adjunto De Educação ,2025-04-28 21:31:08.502000000,2025-04-28 21:31:50.255000000
+57678,Secretaria De Estado De Educação De Mato Grosso,Gildson Campos,gildson.campos@edu.mt.gov.br,,Coordenador De Desenvolvimento De Soluções Em Ti ,2025-04-30 17:44:48.169000000,2025-04-30 18:34:03.035000000
+57800,Poliedro,Marcos Roberto De Souza,marcos.robero10@sistemapoliedro.com.br,12981305696,Analista/Auxiliar/Assistente,2025-04-28 14:07:10.155000000,2025-04-28 14:07:37.232000000
+57814,Arco Educação,Lisiane Santos,lisiane.marcele@arcoeducacao.com.br,41996370996,Coordenador/Supervisor,2025-04-30 13:26:49.865000000,2025-04-30 13:28:19.372000000
+57830,PREFEITURA MUNICIPAL DE TABOÃO DA SERRA,Viviane Ferreira Da Silva Lima,saojudastadeu@educacao.ts.sp.gov.br,11949564942,Diretor/Vice Diretor,2025-04-30 15:38:53.298000000,2025-04-30 15:52:50.345000000
+57866,A NOSSA LIVRARIA DE BELO HORIZONTE LTDA,ANDERSON LEONARDO SANTIAGO,anderson.santiago@domusbrasilis.com.br,31987182042,Gestor/Gerente,2025-04-28 15:50:03.111000000,2025-04-28 15:52:14.092000000
+57941,Vtb - Vendas Total Brasil,Gildasio Vieira Neves,Vieira@vtb.srv.br,11971543768,Presidente/VP,2025-04-28 17:50:24.944000000,2025-04-28 17:51:18.242000000
+58097,Atlan Global  Group,Marcos Roberto Leite,marcos.leite@atlanglobal.com,15997660058,Coordenador/Supervisor,2025-04-29 19:00:24.840000000,2025-04-29 19:12:14.530000000
+58212,,Alison Sodre De Santana,alisonsodre.adv@gmail.com,41988976617,Produção,2025-04-29 12:54:30.980000000,2025-04-29 13:05:54.502000000
+58241,Amado maker,Jose Marmo,jose.marmo@amadomaker.com.br,+5515997216059,Técnico de Sala Maker,2025-04-28 14:59:18.661000000,2025-04-28 15:04:13.804000000
+58314,ACP FERREIRA,Antonio Carlos Paiva Ferreira,acpferreira@acpferreira.com.br,91982631515,Representante Comercial,2025-04-28 17:22:34.548000000,2025-04-28 17:30:52.793000000
+58441,Inicie,Bruno Tome,b@inicie.digital,55119439898,Diretor/Vice Diretor,2025-04-30 17:27:56.581000000,2025-04-30 17:36:15.870000000
+58988,SEDUC SP,Sarah Oliveira,sarah.oliveira@educacao.sp.gov.br,11976110320,Assessor Técnico,2025-04-29 14:18:37.649000000,2025-04-29 18:07:54.238000000
+59010,MG Educational Consultancy,Marua Guedes Mathias,maruaguedes@hotmail.com,11972590850,Autônomo,2025-04-30 16:52:04.044000000,2025-04-30 16:52:48.621000000
+59375,Poliedro Educação,Tania Dias,tania.dias@sistemapoliedro.com.br,12992352674,Diretor/Vice Diretor/Presidente/VP,2025-04-28 17:43:40.665000000,2025-04-28 17:57:36.252000000
+59448,,Matheus Santiago Dos Santos (sant...,santiago@polopalestrantes.com,,,2025-04-28 19:03:27.583000000,2025-04-28 19:17:51.923000000
+59506,Secretaria da Educação,Amanda Santana,amandaramos0308@gmail.com,11940574892,Assessor Técnico,2025-04-29 14:17:45.874000000,2025-04-29 14:22:00.695000000
+59551,UNIRA EDUCAÇÃO,ALINE ABREU SANTANA,alineabreusantana@yahoo.com.br,11961429055,Diretor/Vice Diretor,2025-04-29 16:03:22.208000000,2025-04-29 16:23:23.141000000
+5959,"TECHNOCOPY EQUIPAMENTOS, SUPRIMENTOS E SERVIÇOS LTDA",MARIA APARECIDA REBOUÇAS SILVA,aparecida.reboucas@technocopy.com.br,98981271514,Distribuidor/Revendedor,2025-04-29 21:05:20.306000000,2025-04-29 21:09:40.748000000
+59618,Secretaria de educação,Sheila  Carvalho,sheilavcarvalho22@gmail.com,12997353522,Assessor Técnico,2025-04-28 17:17:21.884000000,2025-04-28 17:17:47.500000000
+59813,SoftwareOne,Sergio Weber,sergio.weber@softwareone.com,11994738000,Gestor/Gerente,2025-05-01 15:42:16.431000000,2025-05-01 16:42:58.203000000
+60169,Motrix,Marina De Freitas Fortes,marinafortes@motrix.global,11980378210,Gestor/Gerente,2025-04-28 19:38:46.459000000,2025-04-28 19:39:04.405000000
+6043,Casa da Gráfica,Frankie Seehaber,frankie@casadagrafica.com,32991951716,Diretor de Produtos,2025-04-30 21:42:01.964000000,2025-05-01 15:53:37.477000000
+6050,Casa da Gráfica,Fran Praxedes,fran.casadagrafica@gmail.com,32991325482,Consultora,2025-04-30 21:22:10.725000000,2025-04-30 21:30:22.734000000
+60515,Nuh! Digital,Kenia Pinto,gestaovb@nuh.digital,11991613810,Gestor/Gerente,2025-04-28 13:28:07.116000000,2025-04-28 14:20:40.106000000
+6052,Casa da Gráfica,Diego Brugiolo,diegobrugiolo@gmail.com,32988312069,Diretor de Marketing,2025-04-30 17:45:31.563000000,2025-06-12 15:05:05.727000000
+60542,Prefeitura de São José dos Campos,Graziela Fernandes Vargas Rocha,graziela.rocha@edusjc.sp.gov.br,12997238773,Assessor Técnico,2025-04-28 14:17:17.596000000,2025-04-28 14:19:59.704000000
+60682,Cielo,Gabriel Rossetti,gabriel.rosseti@cielo.com.br,11969192546,Gerente de Relacionamento,2025-05-01 14:18:42.260000000,2025-05-01 14:30:56.955000000
+60970,MEGA FOFO,HENRIQUE SIQUEIRA,henrique.335@hotmail.com,11954976554,COMERCIAL,2025-05-01 14:25:21.218000000,2025-05-01 14:27:42.170000000
+61025,Codem Solutions,Mateus Hernandes,mateushernandes939@gmail.com,18996693823,Gestor/Gerente,2025-04-28 13:05:11.373000000,2025-04-28 17:25:18.823000000
+61054,CRESCER,Lais Machado,vendas@crescersci.com.br,32991261892,Coordenador/Supervisor,2025-04-28 13:59:09.762000000,2025-04-28 13:59:43.112000000
+61274,Santillana Chile,Javier Ignacio Perez Bravo,javier@pleno.digital,+5584991188118,Diretor Geral - Pleno Internacional Spa,2025-04-28 14:36:15.305000000,2025-04-28 14:41:24.335000000
+61346,SEDUC - SECRETARIA DA EDUCAÇÃO,Viviane Teodoro,teodoros@prof.educacao.sp.gov.br,11995766076,Coordenador/Supervisor,2025-05-01 15:45:17.181000000,2025-05-01 15:47:42.659000000
+61375,Trio Pagamentos,Vittor Alberti,vittor.alberti@trio.com.br,41992535669,Consultor/Especialista,2025-04-29 19:00:40.195000000,2025-04-29 19:02:15.112000000
+61387,Prefeitura da Estância de Atibaia,LUIS CARLOS DA SILVA,lcarlos@atibaia.sp.gov.br,11998300304,Analista/Auxiliar/Assistente,2025-04-28 13:22:06.266000000,2025-04-28 13:24:17.040000000
+6144,Sest Senat,Eleonor Godoy,eleonorgpb@gmail.com,11999169823,Diretor/Vice Diretor,2025-05-01 15:39:25.047000000,2025-05-01 15:42:56.465000000
+61712,Semente Educação,Luciana Capanema,luciana.capanema@sementeeducacao.com.br,21996233299,Gestor/Gerente,2025-04-30 18:59:01.224000000,2025-04-30 19:00:20.275000000
+61884,Instituto Atlântico,Eliabe Santos,eliabe_abreu@atlantico.com.br,85989337534,Gestor/Gerente,2025-04-29 14:05:55.522000000,2025-04-29 19:28:05.519000000
+62020,Gui,Gui Duarte,guilherme.duarte@somoseducacao.com.br,+5531999761210,Coordenação,2025-04-30 21:37:50.396000000,2025-04-30 22:30:15.210000000
+62224,isaac,Joyce Rodrigues,joyce.rodrigues@isaac.com.br,11964901284,Coordenador/Supervisor,2025-04-30 16:44:53.450000000,2025-04-30 19:09:53.564000000
+62254,Certify,Daniel Lopes,daniel@certify.one,19991872595,Consultor/Especialista,2025-04-30 15:39:33.148000000,2025-04-30 15:45:36.717000000
+62373,SENAC-PIAUÍ,FRANCISCA LINO,franciscalopes@pi.senac.br,86999214623,Consultor/Especialista,2025-04-30 16:01:44.065000000,2025-05-01 19:45:18.152000000
+62414,Certify Brasil,Paula Alves Valerio,palvesvalerio@gmail.com,48999335334,Analista/Auxiliar/Assistente,2025-04-30 15:30:18.366000000,2025-04-30 15:30:39.984000000
+62965,,Leonardo Cardoso,munir.nassif@bdil.com.br,11942615904,BACIO DI LATTE,2025-04-30 21:42:12.502000000,2025-04-30 21:55:37.619000000
+63022,Kaizen Academy,Fernando Miyashiro Bernal,fernandomiyashirobernal@gmail.com,11975881068,Diretor/Vice Diretor,2025-04-29 14:12:52.656000000,2025-04-29 14:16:07.904000000
+63301,SEDUC,WELMA PINHO,welma.pinho@edu.mt.gov.br,65992375504,Coordenador/Supervisor,2025-04-28 14:42:02.536000000,2025-04-28 18:09:13.342000000
+63317,SEDUC,MATHEUS FIRMINO,matheus.firmino@edu.mt.gov.br,65992375504,Subsecretário de Educação,2025-04-28 14:42:07.482000000,2025-04-28 14:45:14.749000000
+63324,COGNA SOMOS EDUCAÇÃO,ALAIDE DOS SANTOS,alaide.santos@saber.com.br,11999716672,Consultor/Especialista,2025-04-29 21:07:41.335000000,2025-04-29 21:09:58.095000000
+63342,SEDUC,NATHALIA KROETZ,nathalia.freitas@edu.mt.gov.br,65992375504,Analista/Auxiliar/Assistente,2025-04-28 14:43:25.077000000,2025-04-28 14:46:08.274000000
+63372,Observe,Luiz Arthur Piedade Nascimento,luiz.arthur.nascimento@gmail.com,16982001203,Autônomo,2025-04-30 13:20:13.089000000,2025-04-30 13:27:24.781000000
+63490,,Martha Victoria,martha.victoria96@gmail.com,11974422221,Jornalista,2025-05-01 16:49:22.187000000,2025-05-01 16:49:49.066000000
+63736,,Aiany Katriny Mendes Dias,katrinyaiany@gmail.com,34988348708,Marketing,2025-04-28 20:24:48.112000000,2025-04-28 20:30:33.154000000
+63860,Talking Capybara,Leonardo Squarizzi,leo_squarizzi@hotmail.com,19971279725,Autônomo,2025-04-30 16:35:34.931000000,2025-04-30 16:39:09.780000000
+64064,SECRETARIA MUNICIPAL DE EDUCAÇÃO,Adriane Ap. Carneiro De Jesus,adrianecarneiro.smed@educacao.castro.pr.gov.br,42998239088,Professor/Educador/Pedagogo/Orientador,2025-05-01 12:59:22.953000000,2025-05-01 12:59:41.529000000
+64099,Q13,Saulo Oliveira,saulo.oliveira@q13.tech,11976638764,Gestor/Gerente,2025-04-29 19:11:00.175000000,2025-04-29 19:19:14.979000000
+64234,VRTOOLS,Maiara Francielle Cesario,maiaracesario1234@gmail.com,14991168337,Analista/Auxiliar/Assistente,2025-05-01 14:32:54.748000000,2025-05-01 14:35:25.508000000
+64243,Cogna Educação,Nelson Luis Da Silva Junior,nelson.sjunior@cogna.com.br,43998299040,Gestor/Gerente,2025-05-01 18:07:40.617000000,2025-05-01 18:08:09.176000000
+64630,Amais,Valdeyr Cunha,valdeyrcunha@amais.io,99991060677,Diretor/Vice Diretor,2025-04-29 15:05:14.045000000,2025-04-29 15:36:53.066000000
+65180,De Grão em Grão,Mariana Ribeiro Quadrat,rviz@hotmail.com,21994897233,Diretor/Vice Diretor,2025-05-01 17:57:03.834000000,2025-05-01 18:00:54.860000000
+65197,,Sonia,sonia.enfer22@yahoo.com,11951540999,Produtor de conteúdo (influencers),2025-04-28 18:15:39.095000000,2025-04-28 18:18:54.434000000
+65221,Secretaria Municipal de Capela do Alto,Maria Lucia De Moraes Oliveira,dafelujo@gmail.com,15997228179,Coordenador/Supervisor,2025-04-30 16:53:11.879000000,2025-04-30 16:53:49.775000000
+65486,Sebrae Goiás,Thaline Borba De Oliveira,thaline.oliveira@sebraego.com.br,62991541072,Analista/Auxiliar/Assistente,2025-04-29 19:07:17.352000000,2025-04-29 19:07:52.156000000
+65895,,MARIANA LIMA,MARIANA.LIMA@IG.COM.BR,,DIRETORA DE OPERAÇÕES,2025-04-28 12:52:50.745000000,2025-04-28 13:06:16.579000000
+66087,Projetos,Priscila Rocha,priscila.rocha@virtualrb.com.br,11949223707,Coordenador/Supervisor,2025-04-30 19:04:58.883000000,2025-04-30 19:08:45.982000000
+66198,Prefeitura Municipal de Piquete,Michelle Susan De Oliveira,michellesusano@hotmail.com,12981185540,Subsecretaria de Educação ,2025-04-30 14:11:19.865000000,2025-04-30 14:13:37.797000000
+66595,Editora do Brasil S/A,Cesar Nogueira,cesar.nogueira@editoradobrasil.com.br,11994593959,Consultor/Especialista,2025-04-28 20:27:15.297000000,2025-04-28 20:30:23.893000000
+66760,UNIUBE,Andre Seabra,andre.seabra@uniube.br,34999714882,Gerente de Polos,2025-04-30 17:30:08.313000000,2025-04-30 17:30:45.459000000
+66765,UNIUBE,Nelo Fatureto,nelo.fatureto@uniube.br,3498675800,Coordenador de Planejamento Comercial,2025-04-29 19:17:09.909000000,2025-04-29 19:20:56.023000000
+66792,,Cristiane Ferraro,cristiane.ferraro@uniube.br,34999716320,Coordenadora de Polos,2025-04-28 20:13:47.363000000,2025-04-30 19:41:40.533000000
+66846,Livre Escolha,Vanessa Bittencourt Gazel,v_bitt@hotmail.com,11998072320,Autônomo,2025-04-28 16:28:18.913000000,2025-04-29 11:32:08.430000000
+67478,ESPM - Escola Superior de Propaganda e Marketing,Bruna De Souza Nogueira Dos Reis,bruna.reis@espm.br,11976227962,Coordenador/Supervisor,2025-04-30 15:45:00.294000000,2025-04-30 15:47:05.156000000
+67851,Amais,Caetano Fregapane Filho,caetanofregapane@amais.io,81996374368,Coordenador/Supervisor,2025-04-29 15:03:55.566000000,2025-04-29 15:18:29.382000000
+67893,Arco Educação,Marcela Asevedo Lima,marcela.lima@sas.com.br,11991327077,Analista/Auxiliar/Assistente,2025-04-28 15:36:11.270000000,2025-04-29 21:37:26.331000000
+67932,,Rodolfo Giglio,Rgeventos@uol.com.br,,Sales Manager,2025-04-28 13:51:45.587000000,2025-04-28 13:57:11.617000000
+68048,Universitário Sistema Educacional,Bell Motta,bellmotta@gmail.com,11999995821,Coordenador/Supervisor,2025-04-28 19:30:16.345000000,2025-04-28 19:34:09.693000000
+68101,Prefeitura Municipal de São Bento do Sapucaí,Lucilene Aparecida De Lima Olivetti,lucileneolivetti@yahoo.com.br,12991865982,Subsecretário de Educação,2025-04-28 20:54:02.244000000,2025-04-28 21:01:31.860000000
+68286,SECRETARIA DE EDUCAÇÃO E CIDADANIA/PREFEITURA DE SÃO JOSÉ DOS CAMPOS,KARINE ANDREA POLVEIRO BURGUETI,karineburgueti@gmail.com,12988043645,Coordenador/Supervisor,2025-04-30 12:58:30.880000000,2025-04-30 12:58:51.072000000
+68310,,ROBERTO NODOY,,,,2025-04-28 20:47:02.932000000,2025-04-29 01:09:01.272000000
+68413,Secretaria de Educação Capivari,CAROLINA RODRIGUES TOQUINI,carolinarodriguestoquini@gmail.com,19992044673,Coordenador/Supervisor,2025-04-30 16:34:27.703000000,2025-04-30 16:34:54.418000000
+68461,Prefeitura de Santa Isabel,FELIPE AUGUSTO SILVA TEIXEIRA,rodrigo.educar@gmail.com,11974104998,Chefe de Gabinete,2025-04-28 14:30:10.748000000,2025-04-28 14:32:09.887000000
+68466,Prefeitura de Piquete,Alvaro Masulck,alvaroamfelix@live.com,12991887160,Gestor/Gerente,2025-04-30 14:12:15.138000000,2025-04-30 14:12:37.676000000
+68784,Gluh,Barbara Silva Pires,barbara.pires@dgifts.com.br,+5511967394239,Gerência,2025-04-29 13:55:04.074000000,2025-04-29 14:08:57.658000000
+68859,EDIFY EDUCATION,Ana Leonardos,ana.leonardos@edifyeducation.com.br,,Diretora,2025-04-28 13:41:57.043000000,2025-04-28 17:47:03.447000000
+68861,EDIFY EDUCATION,Igor Martins,igor.martins@learningfactory.net,21992316112,Gerente de operações,2025-04-28 13:33:53.690000000,2025-04-30 22:09:11.146000000
+68865,EDIFY EDUCATION,Bernardo Paiva,bernardo.paiva@edifyeducation.com.br,,co-CEO,2025-04-28 13:28:39.835000000,2025-04-30 12:35:18.778000000
+68866,EDIFY EDUCATION,Marina Dalbem,marina.dalbem@edifyeducation.com.br,,co-CEO,2025-04-28 13:31:47.477000000,2025-04-29 17:23:57.052000000
+68895,EDIFY EDUCATION,Amanda Lopes,amanda.lopes@edifyeducation.com.br,,Gerente,2025-04-29 17:24:12.428000000,2025-04-29 17:25:33.064000000
+68904,EDIFY EDUCATION,Leticia Stern,leticia.stern@edifyeducation.com.br,,Diretora,2025-05-01 14:10:44.835000000,2025-05-01 15:41:10.097000000
+68914,EDIFY EDUCATION,Jandui Jorge,jandui.silva@edifyeducation.com.br,+5581981370492,Head of product,2025-04-30 12:25:40.305000000,2025-04-30 15:34:11.723000000
+69044,SME,Lucilene Lopes Campanholo,lucilene.campanholo@mackenzie.br,61922954391,Coordenador/Supervisor,2025-04-29 19:03:47.057000000,2025-04-29 19:04:26.676000000
+69779,Idep- Institutode Desenvolvimento da Educação  Profissional,SYLVANA VENTURA DA SILVA,sylventura665@gmail.com,67991217384,Diretor/Vice Diretor,2025-04-30 19:48:39.985000000,2025-04-30 19:52:17.933000000
+69868,Parquetur Caminhos do Mar SA,Gabrielle Silva Chiappani,gabrielle.chiappani@parquetur.com.br,13991473489,Coordenador/Supervisor,2025-04-30 20:29:07.782000000,2025-04-30 20:32:17.246000000
+69882,Polo Palestrantes,Luiz Antonio Pombo Junior,pombo@polopalestrantes.com,12991370069,Consultor/Especialista,2025-05-01 14:06:34.577000000,2025-05-01 14:08:02.237000000
+70701,,Zareen Levien,zap@padlet.com,,Marketing,2025-04-28 21:47:27.691000000,2025-04-28 21:47:54.518000000
+70741,Arvore,BRUNO FURTADO,BRUNOFURTADO@ARVORE.COM.BR,+5521984720300,COO,2025-04-29 17:05:30.760000000,2025-04-30 12:03:14.430000000
+70742,Prefeitura Municipal de Matelândia,Ivania Guerini Camargo,ivania_guerini@hotmail.com,45991466475,Dirigente Municipal de Educação (DME),2025-04-29 19:01:46.548000000,2025-04-29 19:21:30.686000000
+70987,,LUCAS CALÇADA,,,,2025-04-29 12:13:53.829000000,2025-04-29 12:15:08.503000000
+71041,,Carlos Almir Gonçalves De Azevedo,carlosalmir411@gmail.com,11956401577,Apoio Operacional,2025-05-01 20:27:14.124000000,2025-05-01 20:34:07.168000000
+71579,Powpay,Bruno Pereira Gama,bruno.gama@powpay.com,11983223604,Gestor/Gerente,2025-05-01 17:00:13.798000000,2025-05-01 17:01:52.104000000
+71689,Faculdade Santo Antonio,Beatriz Gissi,gissibeatriz1994@gmail.com,12996060603,Diretor/Vice Diretor/Presidente/VP,2025-04-30 15:25:43.468000000,2025-04-30 15:27:17.434000000
+71702,Faculdade Santo Antônio,Rodolfo Lacerda,rodolfo.lac@fsantoantonio.edu.br,12996013454,Mantenedor,2025-04-30 15:25:51.282000000,2025-04-30 15:26:17.380000000
+71750,International Student Document - ISD,ALDAR CAMPOS BRAGA,uben-sp@uben.org.br,11945129761,Analista/Auxiliar/Assistente/Secretário Escolar,2025-04-28 19:21:17.959000000,2025-04-28 19:24:11.690000000
+72213,,Mariana Fontana,,,,2025-04-29 13:55:53.654000000,2025-04-29 14:48:09.935000000
+72232,Cruzeiro do Sul Educacional,Ricardo Camara Lorandi,rclorandi@gmail.com,11953894886,Consultor/Especialista,2025-04-30 13:13:03.969000000,2025-04-30 13:15:10.208000000
+72809,,Carlos Eduardo Freire Gurgel,eduardo@fwk.global,,,2025-04-30 16:33:40.115000000,2025-04-30 16:47:57.488000000
+73028,Secretaria de Educação de Piracicaba,Aline Ambrosano,aline.ambrosano@gmail.com,19981322615,Coordenador/Supervisor,2025-04-28 14:47:26.197000000,2025-04-28 14:49:57.124000000
+73055,Valorizza,LUANA TRENTIN,luana.trentin@valorizza.com.br,5441412268,GERENTE DE CONTAS,2025-04-28 19:39:02.202000000,2025-04-28 19:39:30.527000000
+73058,,ARTHUR TCHARDUK,arthur@valorizza.com,5441412268,gerente de expanção,2025-04-28 17:42:35.905000000,2025-04-28 17:42:55.603000000
+7344,Amazon,Lilia Zambon,lzambon@amazon.com,11961855361,Gestor/Gerente,2025-04-28 15:39:44.841000000,2025-04-28 15:44:09.937000000
+73448,Manawa Consultoria,Edione Magalhaes,edionemagalhaes1@gmail.com,77991345226,Consultor/Especialista,2025-04-30 20:47:08.338000000,2025-04-30 20:49:46.426000000
+73592,Aulas Para Professores,MAXIMILIANO DANTAS,aulasparaprofessores@gmail.com,54999922978,Presidente/VP,2025-04-28 20:57:00.566000000,2025-04-28 20:57:31.198000000
+73854,Instituto Saber Pirajussara Ltda,Gabrielle Costa,gcostta8228@gmail.com,11975567826,Diretor/Vice Diretor/Presidente/VP,2025-05-01 17:28:51.823000000,2025-05-01 18:25:30.990000000
+73920,Cardial,Renan Santos,writeme.renan@gmail.com,11943913050,Presidente/VP,2025-04-29 15:59:36.458000000,2025-04-29 16:01:21.929000000
+74124,Ctrl play Goiânia,Vanessa Barbosa De Oliveira,diretoria.goiania@ctrlplay.com.br,62981835901,Gestor/Gerente,2025-04-30 18:25:44.168000000,2025-04-30 18:26:14.051000000
+74236,Super Ensino,Tiago Rozante,tirozante@gmail.com,11981270505,Diretor/Vice Diretor,2025-04-28 14:08:25.145000000,2025-04-28 14:10:09.312000000
+74297,ABIEE,Carlos Silva,abiee@abiee.org.br,61992748364,Diretor/Vice Diretor,2025-04-28 20:08:57.464000000,2025-04-28 20:19:43.665000000
+74353,Amazon,Camila Kalil Cadaval,camicada@amazon.com,11996462110,Consultor/Especialista,2025-04-28 15:38:39.941000000,2025-04-28 15:45:55.547000000
+74596,Advice System,Aureo Fujisawa,aureo261@gmail.com,11947206278,Consultor/Especialista,2025-05-01 13:29:19.219000000,2025-05-01 17:55:18.122000000
+74629,Quero Educação,JULIANO MARINHO DE SOUZA,julianomsou@gmail.com,15974023993,Diretor/Vice Diretor,2025-04-28 14:13:56.662000000,2025-04-28 14:14:47.706000000
+75009,INTERNATIONAL SCHOOL,Patricia Santana Da Silva,patricia.silva@internationalschool.global,11975410655,Coordenador/Supervisor,2025-04-28 17:01:15.722000000,2025-04-29 22:08:58.862000000
+75083,glaipontocom,Glaicon De Souza,glaicon.mkt@gmail.com,11973691080,Consultor/Especialista,2025-04-30 18:26:19.743000000,2025-04-30 18:58:17.040000000
+75216,.,LUCAS DA SILVA,,,,2025-04-30 20:31:46.739000000,2025-04-30 20:33:55.672000000
+75507,Conteúdo educacional,Juliana Fernandes,jf.fernandess83@gmail.com,11951318131,Coordenador/Supervisor,2025-05-01 17:09:47.474000000,2025-05-01 17:10:12.122000000
+759,Great Place to Study,Marina Ribeiro,marina@greatplacetostudy.com.br,5535988617015,Gestor/Gerente,2025-04-29 16:48:06.820000000,2025-04-29 17:05:59.962000000
+75953,,Flavia Guimaraes Borges,flavia.guimaraes06@yahoo.com.br,,,2025-04-29 21:02:29.772000000,2025-04-29 21:06:35.958000000
+76774,Prefeitura Municipal de Taubaté,Debora Andrade Pereira,deborahandradep@hotmail.com,12981148744,Diretor/Vice Diretor,2025-04-30 18:43:39.359000000,2025-04-30 18:47:54.204000000
+76940,Antonella,Ricardo Tawil,contato123@ricardotawil.com.br,11998218105,Gestor de Marketing,2025-04-28 16:16:43.586000000,2025-05-02 11:48:12.993000000
+77225,Acreditar,Amabile Lucy De Souza Gomes,relacionamento@solucoesacreditar.com.br,,Diretora,2025-04-29 13:47:21.641000000,2025-04-29 14:01:32.718000000
+77252,ROBOTTIME,Jonatas Silva,jonatas324@gmail.com,19996496476,Diretor/Vice Diretor,2025-05-01 13:05:23.783000000,2025-05-01 13:08:30.262000000
+7727,UNASP,Helberte Lima,helberte.lima@unasp.edu.br,11971115398,Coordenador/Supervisor,2025-04-30 14:24:47.445000000,2025-04-30 14:30:23.827000000
+77629,SENAI GOAIS,EDNILZA PONTES PARES SOSTER,EDINILZAPONTES.SENAI@FIEG.COM.BR,,SUPERVISORA EDUCACIONAL,2025-04-28 16:15:59.251000000,2025-04-29 16:14:35.937000000
+77640,PREFEITURA DE BRUMADINHO,Cesaria Clarice Mendes Carmo,cesariacmc@yahoo.com.br,+5531997782995,SECRETARIA,2025-04-29 19:11:12.453000000,2025-04-30 18:03:01.328000000
+77949,Ensinabook,ALINE RODRIGUES BORGES DA SILVA,RUBI.ALINE.RBS@GMAIL.COM,+5511970424125,GERENTE,2025-05-01 20:10:06.201000000,2025-05-01 20:11:59.322000000
+78473,ITMS GROUP,Beatriz Fusari De Moraes,beatrizfusari@itmsgroup.com,,GERENTE,2025-04-28 18:26:16.348000000,2025-04-28 18:39:51.858000000
+80940,Casa,ELTON BATISTA SILVA,batista_elton@yahoo.com.br,11983636907,Autônomo,2025-05-01 16:06:53.638000000,2025-05-01 16:07:20.558000000
+80945,Grupo SEB,Murilo Muniz Martins De Souza,murilo.souza@sebsa.com.br,16997437893,Coordenador/Supervisor,2025-04-30 13:19:24.763000000,2025-04-30 13:20:02.741000000
+81609,Tecnologia  Única,Breno Cardozo Fagundes,breno_cardozogarcia@hotmail.com,11995868505,Estudante,2025-05-01 14:57:23.247000000,2025-05-01 15:14:25.717000000
+81869,Tratto Manuseio Eireli,Cristiane ALves De Sousa,pcp@trattoeireli.com.br,11995149130,Coordenador/Supervisor,2025-04-30 15:07:49.391000000,2025-04-30 15:09:44.236000000
+81896,Prefeitura Município de Cristais Paulista,Ana Clara Garcia Brigido,a.garciabr@hotmail.com,16994124155,Diretor/Vice Diretor,2025-04-30 16:39:02.709000000,2025-04-30 16:41:33.576000000
+81926,Prefeitura Municipal da Estância de Ilhabela,Dionete Duarte,dionete.duarte@hotmail.com,12996353397,Diretor/Vice Diretor/Presidente/VP,2025-04-30 12:27:57.783000000,2025-04-30 12:45:03.326000000
+82048,,Alex Cordon,alex@s2f.com.br,61992176807,Parceiro Estratégico,2025-04-30 14:34:56.504000000,2025-04-30 19:37:40.874000000
+82173,Educação,RUTE FILO,rutefilo@hotmail.com,,Diretor de Gestão,2025-04-29 14:07:12.640000000,2025-04-29 14:07:54.145000000
+82459,EDITORA FTD,CRIZELIA GISLANE BEZERRA,bezzera.gis@gmail.com,,Coordenadora,2025-04-29 13:03:14.121000000,2025-04-29 13:04:42.601000000
+82570,EDITORA SOL,DAVI BOGNOLIO PEREIRA,ICADEOLIVEIRA@HOTMAIL.COM,,SUPERVISOR DE OPERAÇÕES LOGISTICAS,2025-04-29 14:27:39.855000000,2025-04-29 14:29:46.052000000
+82736,Fam,Barbara Santolaia,bapontaldi@hotmail.com,,Estudante,2025-04-29 18:01:05.881000000,2025-04-29 18:24:32.171000000
+82737,Fam,Fernanda Araujo,bapontalti@hotmail.com,,estudante,2025-04-29 18:02:11.717000000,2025-04-29 18:06:22.325000000
+82769,,Ana Gracilda Oliveira,gracilda@gmail.com,,,2025-04-30 13:17:04.943000000,2025-04-30 13:20:30.219000000
+82830,PREFEITURA DE SÃO CAETANO,THALES MENDES,MENDES.THA@GMAIL.COM,,ASSESSOR,2025-04-29 13:49:29.112000000,2025-04-29 13:51:12.138000000
+82840,PREFEITURA DE SÃO CAETANO DO SUL,ALAN DE CAMARGO,ALAN.CAMARGO@SAOCAETANODOSUL.SP.GOV.COM.BR,,SECRETARIO,2025-04-29 13:49:47.473000000,2025-04-29 13:58:24.335000000
+82919,SNE DAS ARTES,MARIA RITA NASCIMENTO DUARTE,RITAABVMARIA@GMAIL.COM,,GESTORA,2025-04-29 13:58:23.921000000,2025-04-29 14:00:09.418000000
+82963,ED+ Content Hub,Claudia Regina Benedetti,cladia.benedetti@facens.br,,Head Desenvolvimento de Conteúdo,2025-04-30 19:51:41.152000000,2025-04-30 23:36:05.495000000
+830,Inicie,MARISOL DURAN,m@inicie.digital,41999245808,Coordenador/Supervisor,2025-04-30 18:51:05.437000000,2025-04-30 19:41:32.209000000
+83354,Tratto Eirelli,Neia Himate Lopes,neia.himate@gmail.com,11963207342,Gestor/Gerente,2025-04-30 15:07:03.823000000,2025-04-30 15:07:31.655000000
+83416,Prisma Comercio e Serviço,Germano Barros Santana,germano.santana@hotmail.com,,Adm,2025-04-29 15:58:15.323000000,2025-04-29 15:59:55.820000000
+83647,Lean Sales,Maiara Cardoso,maiara.cardoso@leansales.com.br,11966706243,Intel Marketing,2025-04-30 19:58:09.253000000,2025-04-30 20:14:45.335000000
+83673,DIAS SOSSI CONSULTORIA,ERICA SILVA DIAS,ERICA.GSDIAS@GMAIL.COM.,,PROPRIETÁRIA,2025-04-29 15:20:23.127000000,2025-04-29 15:29:40.431000000
+84030,PREFEITURA MUNICIPAL DE COTIA,PATRICIA SOARES BRAGA,PATITUTI@HOTMAIL.COM,+5511991680270,DIRETORA DE DEPARTAMENTO,2025-04-29 15:04:02.054000000,2025-04-29 15:17:40.141000000
+84043,ED+ Content Hub,Kathleen Vasques,kathleen.antunes@facens.br,,Gestão de Projetos,2025-04-29 18:06:15.035000000,2025-04-29 18:09:47.983000000
+84218,ATGB SISTEMAS,ANDRESSA CRISTINA RODRIGUES,ANDRESSA@ATGBSISTEMAS.COM.BRR,,,2025-04-29 15:20:34.038000000,2025-04-29 15:26:25.318000000
+84251,Secretaria Municipal de Educação de Itararé,Diana Cornelio,dianacornelio54@gmail.com,15988080973,Assessor Técnico,2025-05-01 18:12:10.046000000,2025-05-01 18:12:36.347000000
+84279,MULT FACIL,VINICIUS SOUZA DE LAVOR,VINILAVOTR2@GMAIL.COM,,T.I,2025-04-29 17:34:48.010000000,2025-04-29 17:35:19.528000000
+84318,jiretoursmobiliario,Joanderson Ribeiro Tavares,Joandersonribeirotavares@gmail.com,11953564899,Analista/Auxiliar/Assistente,2025-04-30 15:07:27.466000000,2025-04-30 15:13:23.189000000
+84379,secretasria de educacao,ALDA SIRLENI,aldasirleni@gmail.com,,,2025-04-29 19:14:35.068000000,2025-04-29 19:18:15.428000000
+84990,Move Along Solutions,Matheus Rissardi,matheus@movealong.com.br,16981027620,Presidente/VP,2025-05-01 12:55:57.213000000,2025-05-01 13:02:24.718000000
+85036,ALLCANCI TECNOLOGIA E DESENVOLVIMENTO,MAURICIO RIBEIRO JUNIOR,RIBEIROEJR@HOTMAIL.COM,,SOCIO,2025-04-29 20:45:04.715000000,2025-04-29 20:50:13.690000000
+85194,PLATAFORMA FORÇA MÁXIMA,SAMELA SOUZA,SAMELA.CAVANCANTI@xn--plataformaforamaxima-g1b.com.br,+5521985071228,DIRETORA,2025-04-30 21:22:27.043000000,2025-05-01 18:19:44.846000000
+85306,Inova Tecnologia,Denis Carbone Jimenez,denis.carbonee@itecnologia.com.br,,Diretor,2025-04-29 18:04:20.381000000,2025-04-29 18:06:56.709000000
+85408,REDE OMNIA,ADRIANA  EULALIA MOREIRA,ADRIANAMOREIRA@ONTHEMIDIA.COM.BR,,DIRETOR,2025-04-30 20:55:10.880000000,2025-04-30 20:59:25.379000000
+85453,ELITE SOLUTIONS,RODRIGO HELIODORO,RODRIGOHELIODORO.@HOTMAIL.COM,,DIRETOR DE PROJETOS,2025-04-29 19:14:31.068000000,2025-04-29 19:19:13.879000000
+85504,MEDIANSTREAM,SAMUEL MELO,SCARTAXO@MEDIASTRE.AN,,GESTOR,2025-04-30 16:59:41.378000000,2025-04-30 18:07:57.361000000
+85515,MEDIASTREAM,JESSE RODRIGUES PEREIRA,AOIDSJFISD!GMAIL.COM,,CONSULTOR,2025-04-30 17:00:19.022000000,2025-04-30 21:37:05.800000000
+85845,secretaria municipal de educação,Keren Massarioli,kristiny86@msn.com,16999853650,Assessor Técnico,2025-04-30 15:22:51.975000000,2025-04-30 16:44:05.390000000
+86330,L&S Services,Leandro De Oliveira Carvalho,leandrodeoc@gmail.com,11963659996,Diretor/Vice Diretor/Presidente/VP,2025-05-01 19:31:47.729000000,2025-05-01 19:32:29.943000000
+86431,Wev,Ricardo Frazzato,Ricardo.Frazzato@bywev.com,11945820030,Diretor/Vice Diretor,2025-04-30 16:32:49.572000000,2025-04-30 16:47:43.948000000
+86508,International School,Marcio Izar Bastos De Oliveira,marcio.oliveira@internationalschool.global,11980570018,Coordenador/Supervisor,2025-04-30 14:55:00.092000000,2025-04-30 14:57:00.668000000
+86807,Associação Cultural e Recreativa Criança Feliz,Erly Rodrigues Silva,eacriancafeliz2@gmail.com,11987648622,Diretor/Vice Diretor,2025-05-01 13:36:51.819000000,2025-05-01 13:40:13.289000000
+87193,NR,EDGAR LACERDA,edgarchamusca@gmail.com,11974157134,Gestor/Gerente,2025-04-30 13:32:24.266000000,2025-04-30 13:39:58.094000000
+87216,JK CAPITAL,Igor Batista,igor.batista@jkcapital.com.br,11974241704,Diretor/Vice Diretor,2025-04-30 15:38:56.851000000,2025-04-30 15:44:02.697000000
+87264,ASR MIDIA E GRAFICA,Erik,erik.augusto@asrmidia.com.br,11989736400,Representante Comercial,2025-04-30 21:49:36.356000000,2025-04-30 21:52:36.679000000
+87471,Unip,IAGO BERNARDO CLAUDIANO DA SILVA,iagobernardo@outlook.com,11964401708,Coordenador/Supervisor,2025-04-30 14:00:00.442000000,2025-04-30 14:13:50.466000000
+87741,,Andreia Cristiane Ferracine Ferna...,andreiaf_ferracine@hotmail.com,1153476843,,2025-04-30 17:07:15.410000000,2025-04-30 17:07:46.067000000
+87917,MD SOLUÇÕES EDUCACIONES,ADELCI HILDA MENDES MARQUES,ADELCIMARQUESS@GMAIL.COM,,Proprietária,2025-05-01 17:06:18.400000000,2025-05-01 17:06:47.290000000
+88074,Instituição particular,Daniela Trindade Da França,danitrindade.d@gmail.com,11985653534,Psicólogo/Psicopedagogo,2025-05-01 17:18:16.259000000,2025-05-01 17:18:37.729000000
+882,EMEI PROF. Jacy Ferreira Cerqueira,Elaine Cristina Moreira Queiroz D...,proelainequeiroz@hotmail.com,15991023736,Diretor/Vice Diretor,2025-04-29 15:14:55.895000000,2025-04-29 15:23:51.758000000
+88243,MEIRA FERNANDES,Gislaine Aparecida Dos Santos Oli...,gihu.oliveira@icloud.com,11998998545,Consultor/Especialista,2025-04-30 19:32:48.560000000,2025-04-30 19:35:35.377000000
+88309,secretaria de educacao de itupeva,Beatriz Aparecida Malisse Martins,bbeatriz.malisse@hotmail.com,,diretora de departamentos,2025-04-30 17:52:19.655000000,2025-04-30 17:54:37.203000000
+88519,EDITORA IMEPH,CLODOALDO ALVES,clodoaldoalvesp@gmail.com,85988606214,Representante Comercial,2025-05-01 13:30:04.567000000,2025-05-01 13:32:33.301000000
+88534,Visitante,Leticia Cristina,leticiacristina@gmail.com,,Engenheira de produção,2025-04-30 14:44:21.571000000,2025-04-30 14:49:21.166000000
+88626,editora imeph,DIEGO AZEVEDO,DIEGOAZEVEDOALBUQUERQUE@GMAIL.COM,85999973144,Diretor/Vice Diretor,2025-05-01 13:29:56.326000000,2025-05-01 13:43:48.030000000
+88634,JRPress,Judson Filho,jepreuss@gmail.com,,,2025-04-30 14:44:20.236000000,2025-04-30 15:22:52.966000000
+88650,JRPress,Jessica Dysarsz,jessicady@hotmail.com,,,2025-04-30 14:38:25.910000000,2025-04-30 14:39:18.177000000
+88781,OCCIDENTAL,CAIO FERNANDO DOS SANTOS,OCCIDENTALCONSULTORIA@GMAIL.COMM,,GERENTE,2025-04-30 14:35:02.084000000,2025-04-30 14:36:58.353000000
+89125,GTX 100,WLAMIR LOPES,MIR@GTX100.COM.BR,,GERENTE,2025-04-30 14:57:54.068000000,2025-04-30 14:58:34.251000000
+89179,THAP BRINDES LTDA,MAYARA BERTACINI,MAYARA@THAPBRINDES.COM.BR,11914830878,Diretor/Vice Diretor,2025-05-01 18:49:05.905000000,2025-05-01 18:49:28.415000000
+89192,MUSLI ESTUDIO,MICHEL SHIMAMOTO,MICHELSHIMAMOTO@GMAIL.COM,,Coordenador,2025-04-30 15:10:24.589000000,2025-04-30 15:11:24.610000000
+89197,poliedro educacao,Rachel Lopes Corradini,rachel.corradini@gmail.com,,coordenadora de planejamento,2025-04-30 15:08:35.045000000,2025-04-30 15:10:33.735000000
+89993,ARCODE,ELTHON ALVES DE OLIVEIRA,elthinho-rdc@hotmail.com,11967467835,Gestor/Gerente,2025-05-01 16:26:50.935000000,2025-05-01 16:27:13.618000000
+90051,NTN LOG EXPRESS,DANIELA VALERIA DE TOLEDO,DANTECAMPI@GMAIL.COM,,Coordenadora,2025-04-30 19:02:54.095000000,2025-04-30 19:05:14.705000000
+90368,GP CABLING distribuidora e comercio ltda,Francisco J A Pereira,francisco.jose@gpcabling.com.br,11960581599,Distribuidor/Revendedor,2025-04-30 20:51:57.216000000,2025-04-30 20:52:33.157000000
+90454,EDITORIAL DO BRASIL,EDUARDO KURITA,EK@GMAIL.COMM,+5511997815456,GERENTE DE TECNOLOGIA,2025-04-30 20:06:34.069000000,2025-04-30 21:08:28.688000000
+90986,Ganep,LETICIA BASTOS,leticiabastos97@outlook.com,11934017199,Secretário Escolar,2025-05-01 17:10:37.001000000,2025-05-01 17:13:14.499000000
+91435,Ortosintese,Cleverson Alexandre Novaes,ale.nov0@icloud.com,11941071501,Gestor/Gerente,2025-05-01 18:56:35.683000000,2025-05-01 19:59:02.179000000
+91847,,Angela Maruqes Castro,castrocastro@gmail.com,,,2025-05-01 14:53:41.211000000,2025-05-01 14:54:13.142000000
+92020,FIAP,Lara Nardy,lara.nardy@fiap.com.br,11945077167,Gestor/Gerente,2025-05-01 15:24:10.088000000,2025-05-08 16:46:19.413000000
+9234,A2X Educacional,Denise Albertino,denisesaraujomatos@gmail.com,11988721044,Gestor/Gerente,2025-05-01 18:45:04.091000000,2025-05-01 19:16:50.798000000
+92846,V,MANUEL GOMES,MANUELSSGOMES@HOTMAIL.COM M,,VISITANTE,2025-05-01 17:31:36.246000000,2025-05-01 17:38:17.990000000
+93174,GRUPO IDEAL,ALTON JORGE,ALTON JORGE,,Comercial,2025-05-01 18:17:29.481000000,2025-05-01 18:36:56.075000000
+93176,START SMART,EDUARDO ARRUDA,EDUARDO.ARRUDA @USA.COM,+5511988438295,DONO,2025-05-01 19:24:40.592000000,2025-05-01 19:26:32.989000000
+93183,Mariana Lourenço,Sacha Tibe-Lou,sachatibelou@gmail.com,,........,2025-05-01 20:38:06.444000000,2025-05-01 20:42:52.170000000
+939,SECRETARIA MUNICIPAL DE EDUCAÇÃO DE CAIEIRAS,MARIA DE FATIMA DESTRO ARRUDA,arrudadestro@yahoo.com.br,11998644516,Professor/Educador/Pedagogo/Orientador,2025-04-29 16:19:02.442000000,2025-04-29 16:35:12.905000000
+93959,VIE TEC,GUSTAVO NASCIMENTO,GGSTABELINIUFPR@GMAIL.COM,,Engenheiro de Dados,2025-05-01 20:40:47.691000000,2025-05-01 20:55:22.829000000
+94,SECRETARIA DE ESTADO DA EDUCAÇÃO - SEED/PR,SONIA FREITAS FONSECA DA SILVA,sfonseca@escola.pr.gov.br,41984971456,Assessor Técnico,2025-05-01 13:06:55.882000000,2025-05-01 13:14:06.268000000
+9603,Bem-Te-Vi Academy,Julio Andrade,julio.andrade@btvacademy.com.br,11940436011,Diretor/Vice Diretor/Presidente/VP,2025-04-30 16:56:15.063000000,2025-04-30 16:56:37.262000000
+9665,Secretaria municipal de educação de Poconé,Camila Barbosa Moreira Silva,viceprefeitacamilasilva@gmail.com,65999570349,Secretaria municipal ,2025-05-01 17:52:08.727000000,2025-05-01 18:04:32.750000000
+"{""name"":""•	CASTRICIA ADELAIDE CATALANO CENTURION"", ""email"":""castriciapsic@hotmail.com"", ""id"":15145, ""cid"":24723, ""s"":""411"", ""a"":""""}",,,,,,2025-04-29 12:52:01.475000000,2025-04-29 12:52:30.813000000
+"{""name"":""•	VALTER VILLACIDRO JUNIOR"", ""email"":""junior@cdtecheducacional.com.br"", ""id"":15142, ""cid"":24723, ""s"":""612"", ""a"":""""}",,,,,,2025-04-29 13:35:11.488000000,2025-04-29 13:35:36.973000000
