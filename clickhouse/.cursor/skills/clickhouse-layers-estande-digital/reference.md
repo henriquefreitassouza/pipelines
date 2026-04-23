@@ -183,6 +183,35 @@ Here's a breakdown of the main tables of this database:
 - leadId: foreign key to lead
 - questionId: foreign key to question
 - slug: option selected on the data collection device. The option is registed as the slug of the question. This becomes, together with questionId, the composite key to join with question and get the label of the question, containing the prettified name of the answer.
+
+## Qualification
+
+Some leads are potential buyers. They are identified after filling out the qualification form at the data collection device and having its profile slug assigned. After the potential buyer has been identified, he's redirected to a member of the sales team. Sales team members aren't explicitly identified in the product, but their e-mail addresses can be inferred by analyzing the ref property of events in leadEvent. There's a ref.kind equal to employee, indicating that the event was registered by the booth staff. ref.id will match the e-mail address of the staff member that registred the event for the visitor.
+
+Sales events are no different from regular events, so they must be explicitly registered and described. For each participationId these events may change. For bett-brasil-2025 (participationId 6801644c1d636d67e2ec9430) these events are:
+- LEAD_DESQUALIFICADO_COMERCIAL
+- ESPECIALISTA_DESQUALIFICAR_CONTATO
+- ESPECIALISTA_SOLICITOU_REUNIAO
+- DEMOGUY_ENTREVISTOU
+- DEMOGUY_LEVANTOU_MAO
+- DEMOGUY_REDIRECIONOU_CLIENTE_PARCEIRO
+- ESPECIALISTA_QUALIFICOU
+- ESPECIALISTA_DESQUALIFICOU
+- EMPRESA_QUALIFICADA_POR_ESPECIALISTA
+- ESPECIALISTA_REDIRECIONOU_CLIENTE_PARCEIRO
+- REUNIAO_AGENDADA_NO_ODOO
+- DEMOGUY_DESQUALIFICAR
+- FORMULARIO_TALLY
+- DEMOGUY_ENVIAR_POCKET
+- DEMOGUY_QUALIFICOU
+- DEMOGUY_DESQUALIFICOU
+- DEMOGUY_PROGRAMA_ACELERACAO_DE_ESCOLAS
+- DEMOGUY_OBSERVACAO
+- ESCOLA_QUALIFICADA_POR_ESPECIALISTA
+- (EMPRESAS)_ENVIAR_WHATSAPP_DE_CONTATO
+
+Once staff engages in a conversation with visitors, they may realize that the classification (the profile slug) is incorrect. This may happen if a visitor answered a qualification question wrong and became, for example, a customer when in actuality it shouldn't be a customer. Whenever that's the case, a member of staff then "disqualifies" the lead, which is, manually changes its profile slug. When a profile slug changes, it will appear inside payload.fields at leadEvent.
+
 ---
 
 ## Official documentation
